@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Suraj</h1>
-<h3 align="center">A passionate full-stack developer from India!</h3>
+<h1 align="left">Hi 👋, I'm Suraj</h1>
+<h3 align="left">A passionate full-stack developer from India!</h3>
+<br />
 
-- 🔭 I’m currently working on [Pointo](https://pointo.in)
+- 🔭 I’m currently working at [Pointo](https://pointo.in)
 
 - 🌱 I’m currently learning **Swift**
 
