@@ -1,6 +1,5 @@
 <h1 align="left">Hi 👋, I'm Suraj</h1>
 <h3 align="left">A passionate full-stack developer from India!</h3>
-<br />
 
 - 🔭 I’m currently working at [Pointo](https://pointo.in)
 
