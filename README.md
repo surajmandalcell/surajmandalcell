@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Suraj <img src="http://hits.dwyl.com/surajmanalcell/surajmandalcell.svg" align="right" /></h1>
+<h1 align="left">Hi 👋, I'm Suraj <img src="https://komarev.com/ghpvc/?username=surajmandalcell&label=Hits&style=flat-square" align="right" /></h1>
 <h3 align="left">A passionate full-stack developer from India!</h3>
 
 - 🔭 I’m currently working at [Pointo](https://pointo.in)
