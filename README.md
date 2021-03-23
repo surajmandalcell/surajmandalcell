@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Angular and Express**
 
-- 📫 How to reach me **surajmandalcell@icloud.com**
+- 📫 How to reach me **dev@surajmandal.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
