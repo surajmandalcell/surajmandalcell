@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dev@surajmandal.in**
 
-- 🚚 If my contribution calander goes empty here i.e I'm working in gitlab probably since I never stop coding 😎.
+- 🚚 If my contribution calander goes empty here i.e I'm working in gitlab probably since I never stop coding 😎
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
