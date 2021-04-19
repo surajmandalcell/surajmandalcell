@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Swift**
 
+- 🌱 I’m currently learning **Swift**
+
 - 🤝 I’m looking for help with [Elementary X](https://github.com/surajmandalcell/elementary-x)
 
 - 👨‍💻 All of my projects are available at [surajmandal.in](surajmandal.in)
@@ -12,6 +14,8 @@
 - 💬 Ask me about **React, Angular and Express**
 
 - 📫 How to reach me **dev@surajmandal.in**
+
+- 🚚 If my contribution calander goes empty here i.e I'm working in gitlab probably since I never stop coding 😎.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
