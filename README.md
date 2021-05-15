@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 🌱 I’m currently learning **Swift**
-
 - 🤝 I’m looking for help with [Elementary X](https://github.com/surajmandalcell/elementary-x)
 
 - 👨‍💻 All of my projects are available at [surajmandal.in](surajmandal.in)
