@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Pointo](https://pointo.in)
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Flutter/Dart**
 
 - 🤝 I’m looking for help with [Elementary X](https://github.com/surajmandalcell/elementary-x)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dev@surajmandal.in**
 
-- 🚚 been doing a lot of my work on gitlab so my github calander may seem little empty
+- 🚚 been doing a lot of my work on gitlab so my github calander may seem little empty for now 😊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
