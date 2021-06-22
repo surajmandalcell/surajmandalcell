@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working at [Pointo](https://pointo.in)
 
-- 📫 How to reach me **dev@surajmandal.in**
-
 - 🌱 I’m currently learning **Flutter/Dart**
+
+- 📫 How to reach me **dev@surajmandal.in**
 
 - 💬 Ask me about **React, Angular and NodeJS**
 
