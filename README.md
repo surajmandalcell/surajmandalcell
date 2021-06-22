@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working at [Pointo](https://pointo.in)
 
+- 📫 How to reach me **dev@surajmandal.in**
+
 - 🌱 I’m currently learning **Flutter/Dart**
 
 - 💬 Ask me about **React, Angular and NodeJS**
-
-- 📫 How to reach me **dev@surajmandal.in**
 
 - 👨‍💻 All of my projects are available at [surajmandal.in](surajmandal.in)
 
