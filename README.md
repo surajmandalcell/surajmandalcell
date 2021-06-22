@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **Flutter/Dart**
 
-- 🤝 I’m looking for help with [Elementary X](https://github.com/surajmandalcell/elementary-x)
-
-- 👨‍💻 All of my projects are available at [surajmandal.in](surajmandal.in)
-
-- 💬 Ask me about **React, Angular and Express**
+- 💬 Ask me about **React, Angular and NodeJS**
 
 - 📫 How to reach me **dev@surajmandal.in**
+
+- 👨‍💻 All of my projects are available at [surajmandal.in](surajmandal.in)
 
 - 🚚 been doing a lot of my work on gitlab so my github calander may seem little empty for now 😊
 
