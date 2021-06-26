@@ -1,5 +1,4 @@
-<h1 align="left">Hi 🙏, I'm Suraj Mandal <img src="https://komarev.com/ghpvc/?username=surajmandalcell&label=Hits&style=flat-square" align="right" /></h1>
-<h3 align="left">A passionate front-end developer & CS generalist from India!</h3>
+<h1 align="left">Hi 👋, I'm Suraj Mandal <img src="https://komarev.com/ghpvc/?username=surajmandalcell&label=Hits&style=flat-square" align="right" /></h1>
 
 - 🔭 I’m currently working at [Pointo](https://pointo.in)
 
