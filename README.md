@@ -31,8 +31,4 @@
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/> </a>
 </p>
 
-<br />  
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=surajmandalcell&show_icons=true&theme=dark)
-
 
