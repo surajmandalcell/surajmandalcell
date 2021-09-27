@@ -1,16 +1,10 @@
-<h1 align="left">Hi 👋, I'm Suraj Mandal <img src="https://komarev.com/ghpvc/?username=surajmandalcell&label=Hits&style=flat-square" align="right" /></h1>
+<h1 align="left">Suraj Mandal<img src="https://komarev.com/ghpvc/?username=surajmandalcell&label=Hits&style=flat-square" align="right" /></h1>
 
-- 🔭 I’m currently working at [Pointo](https://pointo.in)
-
-- 🌱 I’m currently learning **Flutter/Dart**
+- 👨‍💻 My website [surajmandal.in](surajmandal.in)
 
 - 📫 How to reach me **dev@surajmandal.in**
 
-- 💬 Ask me about **React, Angular and NodeJS**
-
-- 👨‍💻 All of my projects are available at [surajmandal.in](surajmandal.in)
-
-- 🚚 been doing a lot of my work on gitlab so my github calander may seem little empty for now 😊
+- 🚚 been doing a lot of my work on gitlab so my github calander may seem little empty for now
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
