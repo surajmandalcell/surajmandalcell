@@ -1,6 +1,6 @@
 <h1 align="left">Suraj Mandal<img src="https://komarev.com/ghpvc/?username=surajmandalcell&label=Hits&style=flat-square" align="right" /></h1>
 
-- 👨‍💻 My website [surajmandal.in](surajmandal.in)
+- 👨‍💻 My website [surajmandal.in](https://surajmandal.in)
 
 - 📫 How to reach me **dev@surajmandal.in**
 
