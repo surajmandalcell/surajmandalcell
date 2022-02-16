@@ -2,9 +2,9 @@
 
 - 👨‍💻 My website [surajmandal.in](https://surajmandal.in)
 
-- 📫 How to reach me **dev@surajmandal.in**
+- 📫 You can reach me at **dev@surajmandal.in**
 
-- 🚚 been doing a lot of my work on gitlab so my github calander may seem little empty for now
+- 🚚 been doing a lot of my work on priavate repos so some work might be hidden
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
