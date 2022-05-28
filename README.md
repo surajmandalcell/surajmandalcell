@@ -1,28 +1,26 @@
-<h1 align="left">Suraj Mandal<img src="https://komarev.com/ghpvc/?username=surajmandalcell&label=Hits&style=flat-square" align="right" /></h1>
+<h1 align="left">SurajMandal – @surajmandalcell<img src="https://komarev.com/ghpvc/?username=surajmandalcell&label=Hits&style=flat-square" align="right" /></h1>
 
+
+I'm Suraj, a software developer, designer, and open source enthusiast from [India](https://wikipedia.org/wiki/India "Link to India’s Wikipedia Page") – currently based in Kolkata, West Bengal. I love writing JavaScript, building products, and open-sourcing tools and libraries.
+
+<details>
+  <summary><strong>About Me</strong></summary>
+<br />
+  
 - 👨‍💻 My website [surajmandal.in](https://surajmandal.in)
 
 - 📫 You can reach me at **dev@surajmandal.in**
 
-- 🚚 been doing a lot of my work on priavate repos so some work might be hidden
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/surajmandalcell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="surajmandalcell" height="30" width="40" /></a>
-<a href="https://dribbble.com/surajmandalcell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="surajmandalcell" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/surajmandalcell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="surajmandalcell" height="30" width="40" /></a>
-<a href="https://discord.gg/ZeBPetT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ZeBPetT" height="30" width="40" /></a>
-</p>
+### Hobbies
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/> </a>
-</p>
+I mostly work on random side projects, not perticularly selective about the project I work on. I also spend some my time making gaming content on youtube and twitch.
+  
+</details>
 
+### Links
 
+- Website: [surajmandal.in](https://surajmandal.in)
+- Twitter: [@SurajMandal](https://twitter.com/surajmandalcell)
+- Instagram: [surajmandalcell](https://instagram.com/surajmandalcell)
+- Dribbble: [Suraj Mandal](https://dribbble.com/surajmandalcell)
