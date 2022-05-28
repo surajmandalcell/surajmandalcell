@@ -7,9 +7,9 @@ I'm Suraj, a software developer, designer, and open source enthusiast from [Indi
   <summary><strong>About Me</strong></summary>
 <br />
   
-- 👨‍💻 My website [surajmandal.in](https://surajmandal.in)
+- 👨‍💻 Personal Website [surajmandal.in](https://surajmandal.in)
 
-- 📫 You can reach me at **dev@surajmandal.in**
+- 📫 You can contact me at **dev@surajmandal.in**
 
 
 ### Hobbies
