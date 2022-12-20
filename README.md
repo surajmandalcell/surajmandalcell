@@ -22,5 +22,5 @@ I mostly work on random side projects, not perticularly selective about the proj
 
 - Website: [surajmandal.in](https://surajmandal.in)
 - Twitter: [@SurajMandal](https://twitter.com/surajmandalcell)
-- Instagram: [surajmandalcell](https://instagram.com/surajmandalcell)
 - Dribbble: [Suraj Mandal](https://dribbble.com/surajmandalcell)
+- Instagram: [surajmandalcell](https://instagram.com/surajmandalcell)
