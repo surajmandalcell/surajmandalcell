@@ -1,7 +1,7 @@
 <h1 align="left">SurajMandal – @surajmandalcell<img src="https://komarev.com/ghpvc/?username=surajmandalcell&label=Hits&style=flat-square" align="right" /></h1>
 
 
-I'm Suraj, a software developer, designer, and open source enthusiast from [India](https://wikipedia.org/wiki/India "Link to India’s Wikipedia Page") – currently based in Kolkata, West Bengal. I love writing JavaScript, building products, and open-sourcing tools and libraries.
+Hi, I'm a software developer, designer, and open source enthusiast from [India](https://wikipedia.org/wiki/India "Link to India’s Wikipedia Page") – currently based in Kolkata, West Bengal. I love writing JavaScript, building products, and open-sourcing tools and libraries.
 
 <details>
   <summary><strong>About Me</strong></summary>
