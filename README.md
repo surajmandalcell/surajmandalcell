@@ -12,6 +12,6 @@ I love writing JavaScript, building products, and open-sourcing tools and librar
 ### Links
 
 - Website: [surajmandal.in](https://surajmandal.in)
-- Twitter: [@SurajMandal](https://twitter.com/surajmandalcell)
+- Twitter: [surajmandalcell](https://twitter.com/surajmandalcell)
 - Dribbble: [Suraj Mandal](https://dribbble.com/surajmandalcell)
 - Instagram: [surajmandalcell](https://instagram.com/surajmandalcell)
