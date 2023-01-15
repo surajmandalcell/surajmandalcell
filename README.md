@@ -18,8 +18,9 @@ I love writing JavaScript, building products, and open-sourcing tools and librar
 
 
 <a href="https://github.com/surajmandalcell/api-a.surajmandal.in">
-  <img align="center" src="https://api-a.surajmandal.in/api?username=surajmandalcell&show_icons=true&theme=codeSTACKr&count_private=true" />
-</a>
+  <img align="left" src="https://api-a.surajmandal.in/api/top-langs?username=surajmandalcell&show_icons=true&theme=codeSTACKr&count_private=true&layout=compact" />
+</a>  
+<br />  
 <a href="https://github.com/surajmandalcell/api-a.surajmandal.in">
-  <img align="center" src="https://api-a.surajmandal.in/api/top-langs?username=surajmandalcell&show_icons=true&theme=codeSTACKr&count_private=true&layout=compact" />
+  <img align="left" src="https://api-a.surajmandal.in/api?username=surajmandalcell&show_icons=true&theme=codeSTACKr&count_private=true" />
 </a>
