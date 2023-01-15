@@ -1,4 +1,4 @@
-<h1 align="left">SurajMandal<img src="https://komarev.com/ghpvc/?username=surajmandalcell&label=Hits&style=flat-square" align="right" /></h1>
+<h1 align="left">Suraj Mandal<img src="https://komarev.com/ghpvc/?username=surajmandalcell&label=Hits&style=flat-square" align="right" /></h1>
 
 
 Hi, I'm a software developer, designer, and open source enthusiast based in Toronto, ON.  
