@@ -11,7 +11,15 @@ I love writing JavaScript, building products, and open-sourcing tools and librar
 
 ### Links
 
-- Website: [surajmandal.in](https://surajmandal.in)
-- Twitter: [surajmandalcell](https://twitter.com/surajmandalcell)
-- Dribbble: [Suraj Mandal](https://dribbble.com/surajmandalcell)
-- Instagram: [surajmandalcell](https://instagram.com/surajmandalcell)
+~ Website: [surajmandal.in](https://surajmandal.in)  
+~ Twitter: [@SurajMandal](https://twitter.com/surajmandalcell)  
+~ Dribbble: [Suraj Mandal](https://dribbble.com/surajmandalcell)  
+~ Instagram: [surajmandalcell](https://instagram.com/surajmandalcell)  
+
+
+<a href="https://github.com/surajmandalcell/api-a.surajmandal.in">
+  <img align="center" src="https://api-a.surajmandal.in/api?username=surajmandalcell&show_icons=true&theme=codeSTACKr&count_private=true" />
+</a>
+<a href="https://github.com/surajmandalcell/api-a.surajmandal.in">
+  <img align="center" src="https://api-a.surajmandal.in/api/top-langs?username=surajmandalcell&show_icons=true&theme=codeSTACKr&count_private=true&layout=compact" />
+</a>
