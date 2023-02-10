@@ -4,7 +4,7 @@
 Hi, I'm a software developer, designer, and open source enthusiast based in Toronto, ON.  
 I love writing JavaScript, building products, and open-sourcing tools and libraries.
 
-🌐 My Website is [surajmandal.in](https://surajmandal.in)  
+💻 My Website is [surajmandal.in](https://surajmandal.in)  
 ✉️ You can contact me at **me@surajmandal.in**  
   
 </details>
