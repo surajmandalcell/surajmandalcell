@@ -5,7 +5,7 @@ Hi, I'm a software developer, designer, and open source enthusiast based in Toro
 I love writing JavaScript, building products, and open-sourcing tools and libraries.
 
 <details>
-  <summary>𝌕 Socials</summary>
+  <summary>🎩 Socials</summary>
   
 My Website is [surajmandal.in](https://surajmandal.in)  
 You can contact me at **me@surajmandal.in**  
