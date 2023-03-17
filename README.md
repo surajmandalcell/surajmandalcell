@@ -4,13 +4,10 @@
 Hi, I'm a software developer, designer, and open source enthusiast based in Toronto, ON.  
 I love writing JavaScript, building products, and open-sourcing tools and libraries.
 
-<details>
-  <summary>🎩 Socials</summary>
+🎩 Socials
   
 My Website is [surajmandal.in](https://surajmandal.in)  
 You can contact me at **me@surajmandal.in**  
  <br />
 [Website](https://surajmandal.in) | [Twitter](https://twitter.com/surajmandalcell) | [Dribbble](https://dribbble.com/surajmandalcell) | [Instagram](https://instagram.com/surajmandalcell) | [Npm](https://www.npmjs.com/~surajmandalcell)  
-  
-</details>
 
