@@ -10,3 +10,9 @@ I love writing JavaScript, building products, and open-sourcing tools and librar
 | Streaks | Stats |
 |:-------------------------:|:-------------------------:|
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=surajmandalcell&theme=dark&hide_border=true&count_private=true) | ![](https://gh-stats.surajmandal.in/api?username=surajmandalcell&theme=dark&hide_border=true&include_all_commits=true&count_private=true) |
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
