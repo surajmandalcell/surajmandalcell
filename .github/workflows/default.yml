@@ -36,4 +36,4 @@ jobs:
           target_branch: master
           build_dir: .
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
