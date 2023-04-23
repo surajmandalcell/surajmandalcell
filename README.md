@@ -12,9 +12,9 @@ I love writing JavaScript, building products, and open-sourcing tools and librar
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=surajmandalcell&theme=dark&hide_border=true&count_private=true) | ![](https://gh-stats.surajmandal.in/api?username=surajmandalcell&theme=dark&hide_border=true&include_all_commits=true&count_private=true) |
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake.svg?color_snake=#4489ec&color_dots=#2d333b,#14482e,#067238,#2dab47,#38d353" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake.svg?color_snake=#4489ec&color_dots=#2d333b,#14482e,#067238,#2dab47,#38d353" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
 </picture>
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9" />
