@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-snake.svg
+          gif_out_path: dist/github-snake.gif
           # dist/github-snake-dark.svg?palette=github-dark
-          gif_out_path: dist/ocean.gif
       - run: git status
       - name: Push changes
         uses: ad-m/github-push-action@master
