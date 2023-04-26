@@ -6,7 +6,6 @@ I love writing JavaScript, building products, and open-sourcing tools and librar
 [surajmandal.in](https://surajmandal.in) | **me@surajmandal.in**  
 <br />
 [Website](https://surajmandal.in) | [Twitter](https://twitter.com/surajmandalcell) | [Dribbble](https://dribbble.com/surajmandalcell) | [Instagram](https://instagram.com/surajmandalcell) | [Npm](https://www.npmjs.com/~surajmandalcell)  
-<br />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake.svg?color_snake=#4489ec&color_dots=#2d333b,#14482e,#067238,#2dab47,#38d353" />
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
