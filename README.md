@@ -1,11 +1,8 @@
-<h1 align="left">About Me<img src="https://visitcount.itsvg.in/api?id=surajmandalcell&label=Profile%20Views&color=9&icon=0&pretty=true" align="right" /></h1>
+<h1 align="left">Suraj Mandal<img src="https://visitcount.itsvg.in/api?id=surajmandalcell&label=Profile%20Views&color=9&icon=0&pretty=true" align="right" /></h1>
 
-Hi, I'm a software developer, designer, and open source enthusiast based in Toronto, ON.  
-I love writing JavaScript, building products, and open-sourcing tools and libraries.
-  
-[surajmandal.in](https://surajmandal.in) | me@surajmandal.in  
-<br />
-[Website](https://surajmandal.in) | [Twitter](https://twitter.com/surajmandalcell) | [Dribbble](https://dribbble.com/surajmandalcell) | [Instagram](https://instagram.com/surajmandalcell) | [Npm](https://www.npmjs.com/~surajmandalcell)  
+Hiya, I'm a programming maestro, artistic virtuoso, and open source fanatic creating magic in the dynamic city of Toronto, ON.  
+<br /> 
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fsurajmandal.in) ![Email](https://img.shields.io/badge/email-%E2%9C%89%EF%B8%8F-blue) ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsurajmandalcell) ![Dribbble](https://img.shields.io/badge/dribbble-4-pink) ![Instagram](https://img.shields.io/badge/instagram-%F0%9F%91%8D-fd1d1d) ![Npm](https://img.shields.io/badge/npm-1%20pkg-green)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake.svg?color_snake=#4489ec&color_dots=#2d333b,#14482e,#067238,#2dab47,#38d353" />
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
