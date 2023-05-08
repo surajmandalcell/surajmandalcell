@@ -17,7 +17,8 @@ Hiya, I'm a programming maestro, artistic virtuoso, and open source fanatic crea
   <img alt="github-snake" src="dist/github-snake.svg" />
 </picture>
 
-<div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajmandalcell&theme=dark&hide_border=true&count_private=true" align="left">
-    <img src="https://gh-stats.surajmandal.in/api?username=surajmandalcell&theme=dark&hide_border=true&include_all_commits=true&count_private=true" align="right">
-</div>
+<p align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajmandalcell&theme=dark&hide_border=true&count_private=true" width="auto">
+    &nbsp; &nbsp;
+    <img src="https://gh-stats.surajmandal.in/api?username=surajmandalcell&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="auto">
+</p>
