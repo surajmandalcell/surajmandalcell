@@ -19,5 +19,5 @@ Hiya, I'm a programming maestro, artistic virtuoso, and open source fanatic crea
 
 <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajmandalcell&theme=dark&hide_border=true&count_private=true" align="left">
-    <img src="https://gh-stats.surajmandal.in/api?username=surajmandalcell&theme=dark&hide_border=true&include_all_commits=true&count_private=true" align="center">
+    <img src="https://gh-stats.surajmandal.in/api?username=surajmandalcell&theme=dark&hide_border=true&include_all_commits=true&count_private=true" align="right">
 </div>
