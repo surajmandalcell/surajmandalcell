@@ -18,7 +18,7 @@ Hiya, I'm a programming maestro, artistic virtuoso, and open source fanatic crea
 </picture>
 
 <p align="left">
-    <img src="https://gh-profile-streak-cruelplatypus67.vercel.app/?user=surajmandalcell&theme=dark&hide_border=true&count_private=true" width="49.5%">
+    <img src="https://firebasestorage.googleapis.com/v0/b/suraj-personal.appspot.com/o/gh%2Fstreak-image.svg?alt=media&token=3842b9a7-6e85-491d-99ca-e526accd3dd2" width="49.5%">
     &nbsp; &nbsp;
-    <img src="https://gh-profile-stats-sm.vercel.app/api?username=surajmandalcell&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="45%">
+    <img src="https://firebasestorage.googleapis.com/v0/b/suraj-personal.appspot.com/o/gh%2Fstats-image.svg?alt=media&token=f3a64122-1195-4c8d-9000-ef08675a52f4" width="45%">
 </p>
