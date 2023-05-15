@@ -11,14 +11,14 @@ Hiya, I'm a programming maestro, artistic virtuoso, and open source fanatic crea
 ![Npm](https://img.shields.io/badge/npm-1%20pkg-green)
 ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsurajmandalcell)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake.svg?color_snake=#4489ec&color_dots=#2d333b,#14482e,#067238,#2dab47,#38d353" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
-
 <p align="left">
     <img src="https://firebasestorage.googleapis.com/v0/b/suraj-personal.appspot.com/o/gh%2Fstreak-image.svg?alt=media&token=3842b9a7-6e85-491d-99ca-e526accd3dd2" width="49.5%">
     &nbsp; &nbsp;
     <img src="https://firebasestorage.googleapis.com/v0/b/suraj-personal.appspot.com/o/gh%2Fstats-image.svg?alt=media&token=f3a64122-1195-4c8d-9000-ef08675a52f4" width="45%">
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake.svg?color_snake=#4489ec&color_dots=#2d333b,#14482e,#067238,#2dab47,#38d353" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
