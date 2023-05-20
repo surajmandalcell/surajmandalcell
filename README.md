@@ -6,16 +6,12 @@
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://img.shields.io/badge/instagram-%F0%9F%91%8D-fd1d1d)
 [![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://img.shields.io/badge/npm-1%20pkg-green)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsurajmandalcell)
-
-<details markdown="1" open>
-  <summary>I'm actively working on</summary>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=nup">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=vscode-uncanny">
- </details>
  
  <details markdown="1" close>
-  <summary>I've recently finished</summary>
+  <summary>Recent Projects</summary>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=vscode-uncanny">
   <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=cloud-cache">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=nup">
   <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=vscode-remix">
  </details>
 
