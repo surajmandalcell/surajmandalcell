@@ -9,14 +9,14 @@
 
 <details markdown="1" open>
   <summary>I'm actively working on</summary>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=nup" width="33%">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=vscode-remix" width="33%">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=vscode-uncanny" width="33%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=nup">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=vscode-uncanny">
  </details>
  
  <details markdown="1" close>
   <summary>I've recently finished</summary>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=cloud-cache" width="33%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=cloud-cache">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=vscode-remix">
  </details>
 
 <details close>
