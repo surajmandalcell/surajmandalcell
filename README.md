@@ -7,13 +7,15 @@
 [![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://img.shields.io/badge/npm-1%20pkg-green)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsurajmandalcell)
  
- <details markdown="1" close>
+<!--  <details markdown="1" close>
   <summary>Recent Projects</summary>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=vscode-uncanny">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=cloud-cache">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=nup">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=vscode-remix">
- </details>
+  <p align="left">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?theme=react&bg_color=1F222E&title_color=F85D7F&show_icons=false&hide_border=true&username=surajmandalcell&repo=vscode-uncanny" width="278">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=cloud-cache" width="278">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=nup" width="278">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=vscode-remix" width="278">
+  </p>
+ </details> -->
 
 <details close>
   <summary>Profile Stats</summary>
