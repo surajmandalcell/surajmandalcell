@@ -7,6 +7,18 @@
 [![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://img.shields.io/badge/npm-1%20pkg-green)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsurajmandalcell)
 
+<details markdown="1" open>
+  <summary>I'm actively working on</summary>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=nup" width="33%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=vscode-remix" width="33%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=vscode-uncanny" width="33%">
+ </details>
+ 
+ <details markdown="1" close>
+  <summary>I've recently finished</summary>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=cloud-cache" width="33%">
+ </details>
+
 <details close>
   <summary>Profile Stats</summary>
   <p align="left">
