@@ -21,15 +21,15 @@
   <summary>Profile Stats</summary>
   <p align="left">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://firebasestorage.googleapis.com/v0/b/suraj-personal.appspot.com/o/gh%2Fstats-image.svg?alt=media&token=f3a64122-1195-4c8d-9000-ef08675a52f4" />
-      <source media="(prefers-color-scheme: light)" srcset="https://firebasestorage.googleapis.com/v0/b/suraj-personal.appspot.com/o/gh%2Fstats-image-light.svg?alt=media&token=ccf2e721-45ea-43fb-bd91-a6e78a5e63d0" />
-      <img alt="github-stats" src="https://firebasestorage.googleapis.com/v0/b/suraj-personal.appspot.com/o/gh%2Fstats-image.svg?alt=media&token=f3a64122-1195-4c8d-9000-ef08675a52f4" width="49.5%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://storage.googleapis.com/suraj-personal.appspot.com/gh/stats-image.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://storage.googleapis.com/suraj-personal.appspot.com/gh/stats-image-light.svg" />
+      <img alt="github-stats" src="https://storage.googleapis.com/suraj-personal.appspot.com/gh/stats-image.svg" width="49.5%" />
     </picture>
    
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://firebasestorage.googleapis.com/v0/b/suraj-personal.appspot.com/o/gh%2Fstreak-image.svg?alt=media&token=3842b9a7-6e85-491d-99ca-e526accd3dd2" />
-      <source media="(prefers-color-scheme: light)" srcset="https://firebasestorage.googleapis.com/v0/b/suraj-personal.appspot.com/o/gh%2Fstreak-image-light.svg?alt=media&token=1f9d31b8-8c72-412e-b009-eae9ae939947" />
-      <img alt="github-streak" src="https://firebasestorage.googleapis.com/v0/b/suraj-personal.appspot.com/o/gh%2Fstreak-image.svg?alt=media&token=3842b9a7-6e85-491d-99ca-e526accd3dd2" width="45%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://storage.googleapis.com/suraj-personal.appspot.com/gh/streak-image.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://storage.googleapis.com/suraj-personal.appspot.com/gh/streak-image-light.svg" />
+      <img alt="github-streak" src="https://storage.googleapis.com/suraj-personal.appspot.com/gh/streak-image.svg" width="45%" />
     </picture>
   </p>
   <picture>
