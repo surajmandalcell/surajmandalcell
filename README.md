@@ -23,13 +23,13 @@
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://storage.googleapis.com/suraj-personal.appspot.com/gh/stats-image.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://storage.googleapis.com/suraj-personal.appspot.com/gh/stats-image-light.svg" />
-      <img alt="github-stats" src="https://storage.googleapis.com/suraj-personal.appspot.com/gh/stats-image.svg" width="49.5%" />
+      <img alt="github-stats" src="https://storage.googleapis.com/suraj-personal.appspot.com/gh/stats-image.svg" width="45%" />
     </picture>
    
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://storage.googleapis.com/suraj-personal.appspot.com/gh/streak-image.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://storage.googleapis.com/suraj-personal.appspot.com/gh/streak-image-light.svg" />
-      <img alt="github-streak" src="https://storage.googleapis.com/suraj-personal.appspot.com/gh/streak-image.svg" width="45%" />
+      <img alt="github-streak" src="https://storage.googleapis.com/suraj-personal.appspot.com/gh/streak-image.svg" width="49.5%" />
     </picture>
   </p>
   <picture>
