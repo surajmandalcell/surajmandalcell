@@ -16,9 +16,7 @@
    <img src="https://github-readme-stats.vercel.app/api/pin/?theme=dark&hide_border=true&username=surajmandalcell&repo=vscode-remix" width="278">
   </p>
  </details> -->
-
-<details close>
-  <summary>Profile Stats</summary>
+ 
   <p align="left">
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://storage.googleapis.com/suraj-personal.appspot.com/gh/stats-image.svg" />
@@ -32,9 +30,14 @@
       <img alt="github-streak" src="https://storage.googleapis.com/suraj-personal.appspot.com/gh/streak-image.svg" width="49.5%" />
     </picture>
   </p>
-<!--   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake.svg?color_snake=#4489ec&color_dots=#2d333b,#14482e,#067238,#2dab47,#38d353" />
-      <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-      <img alt="github-snake" src="dist/github-snake.svg" />
-    </picture> -->
+ 
+<!--    
+<details close>
+    <summary>Profile Stats</summary>
+    <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake.svg?color_snake=#4489ec&color_dots=#2d333b,#14482e,#067238,#2dab47,#38d353" />
+          <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+          <img alt="github-snake" src="dist/github-snake.svg" />
+     </picture>
 </details>
+-->
