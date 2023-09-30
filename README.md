@@ -2,12 +2,12 @@
 
 Hi, I am super active on github and mail so please drop me a message!
 
-[![Website](https://img.shields.io/badge/website-01295c?style=for-the-badge&logo=About.me&logoColor=white)](https://surajmandal.in)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/surajmandalcell)
 [![Email](https://img.shields.io/badge/email-788cb6?style=for-the-badge&logo=About.me&logoColor=white)](https://surajmandalcell@gmail.com)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/surajmandalcell)
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/surajmandalcell/)
 [![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~surajmandalcell)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/surajmandalcell)
+[![Website](https://img.shields.io/badge/website-01295c?style=for-the-badge&logo=About.me&logoColor=white)](https://surajmandal.in)
  
 <!--  <details markdown="1" close>
   <summary>Recent Projects</summary>
