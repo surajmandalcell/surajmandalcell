@@ -1,5 +1,7 @@
 # Suraj Mandal
 
+Hi, I am super active on github and mail so please drop me a message!
+
 [![Website](https://img.shields.io/badge/website-01295c?style=for-the-badge&logo=About.me&logoColor=white)](https://surajmandal.in)
 [![Email](https://img.shields.io/badge/email-788cb6?style=for-the-badge&logo=About.me&logoColor=white)](https://surajmandalcell@gmail.com)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/surajmandalcell)
@@ -17,7 +19,7 @@
   </p>
  </details> -->
  
-  <p align="left">
+  <!-- <p align="left">
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://storage.googleapis.com/suraj-personal.appspot.com/gh/stats-image.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://storage.googleapis.com/suraj-personal.appspot.com/gh/stats-image-light.svg" />
@@ -29,7 +31,7 @@
       <source media="(prefers-color-scheme: light)" srcset="https://storage.googleapis.com/suraj-personal.appspot.com/gh/streak-image-light.svg" />
       <img alt="github-streak" src="https://storage.googleapis.com/suraj-personal.appspot.com/gh/streak-image.svg" width="49.5%" />
     </picture>
-  </p>
+  </p> -->
  
 <!--    
 <details close>
