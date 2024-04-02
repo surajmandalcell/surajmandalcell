@@ -2,6 +2,8 @@
 
 Hi, I am super active on github and mail so please drop me a message!  
 
+Default vscode theme: Overnight Slumber
+
 ![GitHub User's stars](https://img.shields.io/github/stars/surajmandalcell?style=for-the-badge&logo=github)
 [![Website](https://img.shields.io/badge/website-004187?style=for-the-badge&logo=About.me&logoColor=white)](https://surajmandal.in)
 [![Email](https://img.shields.io/badge/email-788cb6?style=for-the-badge&logo=About.me&logoColor=white)](https://surajmandalcell@gmail.com)
