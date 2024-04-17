@@ -1,8 +1,4 @@
-# Suraj Mandal
-
 Hi, I am super active on twitter and mail so please drop me a message!  
-
-Current VS Code theme: Overnight Slumber
 
 ![GitHub User's stars](https://img.shields.io/github/stars/surajmandalcell?style=for-the-badge&logo=github)
 [![Website](https://img.shields.io/badge/website-004187?style=for-the-badge&logo=About.me&logoColor=white)](https://surajmandal.in)
