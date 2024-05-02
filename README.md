@@ -5,5 +5,4 @@ Hi, I am super active on twitter and mail so please drop me a message!
 [![Email](https://img.shields.io/badge/email-788cb6?logo=About.me&logoColor=white)](https://surajmandalcell@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/surajmandalcell)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white)](https://dribbble.com/surajmandalcell)
-[![Instagram](	https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/surajmandalcell/)
 [![Npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/~surajmandalcell)
