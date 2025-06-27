@@ -1,4 +1,4 @@
-Hi, I am super active on twitter and mail so please drop me a message!  
+Hi, I am super active on email so feel free and drop me a message!  
 
 ![GitHub User's stars](https://img.shields.io/github/stars/surajmandalcell?logo=github)
 [![Website](https://img.shields.io/badge/website-004187?logo=About.me&logoColor=white)](https://surajmandal.in)
