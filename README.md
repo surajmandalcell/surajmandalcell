@@ -80,22 +80,22 @@
 <table style="border: none;" cellspacing="0" cellpadding="0">
   <tr>
     <td width="85%">🌙 <a href="https://github.com/surajmandalcell/lunatecz">lunatecz</a> - Client Project</td>
-    <td width="20%"><a href="https://lunatecz.com/">lunatecz.com</a></td>
+    <td><a href="https://lunatecz.com/">lunatecz.com</a></td>
     <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
   </tr>
   <tr>
     <td width="60%">📺 <a href="https://github.com/surajmandalcell/highrays-yt">highrays-yt</a> - YouTube-related project</td>
-    <td width="20%"><a href="https://thehighraysyt.com/">thehighraysyt.com</a></td>
+    <td><a href="https://thehighraysyt.com/">thehighraysyt.com</a></td>
     <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
   </tr>
   <tr>
-    <td width="60%">⚙️ <a href="https://github.com/surajmandalcell/highrays-root">highrays-root</a> - Root configuration for highrays</td>
-    <td width="20%"><a href="https://thehighrays.com/">thehighrays.com</a></td>
+    <td width="85%">⚙️ <a href="https://github.com/surajmandalcell/highrays-root">highrays-root</a> - Root configuration for highrays</td>
+    <td><a href="https://thehighrays.com/">thehighrays.com</a></td>
     <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
   </tr>
   <tr>
     <td width="60%">⚡ <a href="https://github.com/surajmandalcell/elec3d">elec3d</a> - 3D electrical visualization</td>
-    <td width="20%"><a href="http://elec3d.in/">elec3d.in</a></td>
+    <td><a href="http://elec3d.in/">elec3d.in</a></td>
     <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
   </tr>
 </table>
