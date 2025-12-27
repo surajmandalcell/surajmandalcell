@@ -14,63 +14,67 @@
 
 <table border="none" cellspacing="0" cellpadding="0">
 <tr>
-  <td width="85%">✨ <a href="https://github.com/surajmandalcell/elementary-x">elementary-x</a> - Elementary OS theme with macOS window controls</td>
-  <td width="15%" align="right"><img src="https://img.shields.io/github/stars/surajmandalcell/elementary-x?style=flat&color=gray&labelColor=gray" /></td>
+<th><img width="715" height="1"></th>
+<th><img width="179" height="1"></th>
+</tr>
+<tr>
+  <td width="80%">✨ <a href="https://github.com/surajmandalcell/elementary-x">elementary-x</a> - Elementary OS theme with macOS window controls</td>
+  <td width="20%" align="right"><img src="https://img.shields.io/github/stars/surajmandalcell/elementary-x?style=flat&color=gray&labelColor=gray" /></td>
 </tr>
   <tr>
-    <td width="85%">🎨 <a href="https://github.com/surajmandalcell/gtk-theming-guide">gtk-theming-guide</a> - Beginner's guide to creating GTK themes</td>
-    <td width="15%" align="right"><img src="https://img.shields.io/github/stars/surajmandalcell/gtk-theming-guide?style=flat&color=gray&labelColor=gray" /></td>
+    <td width="80%">🎨 <a href="https://github.com/surajmandalcell/gtk-theming-guide">gtk-theming-guide</a> - Beginner's guide to creating GTK themes</td>
+    <td width="20%" align="right"><img src="https://img.shields.io/github/stars/surajmandalcell/gtk-theming-guide?style=flat&color=gray&labelColor=gray" /></td>
   </tr>
   <tr>
-    <td width="85%">🖥️ <a href="https://github.com/surajmandalcell/elegant-sddm">elegant-sddm</a> - Sleek SDDM login theme for KDE Plasma crafted in QML</td>
-    <td width="15%" align="right"><img src="https://img.shields.io/github/stars/surajmandalcell/elegant-sddm?style=flat&color=gray&labelColor=gray" /></td>
+    <td width="80%">🖥️ <a href="https://github.com/surajmandalcell/elegant-sddm">elegant-sddm</a> - Sleek SDDM login theme for KDE Plasma crafted in QML</td>
+    <td width="20%" align="right"><img src="https://img.shields.io/github/stars/surajmandalcell/elegant-sddm?style=flat&color=gray&labelColor=gray" /></td>
   </tr>
   <tr>
-    <td width="85%">🔄 <a href="https://github.com/surajmandalcell/switch">switch</a> - CLI tool for switching between multiple auth accounts for AI services</td>
-    <td width="15%" align="right"><img src="https://img.shields.io/github/stars/surajmandalcell/switch?style=flat&color=gray&labelColor=gray" /></td>
+    <td width="80%">🔄 <a href="https://github.com/surajmandalcell/switch">switch</a> - CLI tool for switching between multiple auth accounts for AI services</td>
+    <td width="20%" align="right"><img src="https://img.shields.io/github/stars/surajmandalcell/switch?style=flat&color=gray&labelColor=gray" /></td>
   </tr>
   <tr>
-    <td width="85%">✈️ <a href="https://github.com/surajmandalcell/libigc">libigc</a> - Python library for parsing IGC flight files and extracting thermals</td>
-    <td width="15%" align="right"><img src="https://img.shields.io/github/stars/surajmandalcell/libigc?style=flat&color=gray&labelColor=gray" /></td>
+    <td width="80%">✈️ <a href="https://github.com/surajmandalcell/libigc">libigc</a> - Python library for parsing IGC flight files and extracting thermals</td>
+    <td width="20%" align="right"><img src="https://img.shields.io/github/stars/surajmandalcell/libigc?style=flat&color=gray&labelColor=gray" /></td>
   </tr>
   <tr>
-    <td width="85%">📦 <a href="https://github.com/surajmandalcell/dolash">dolash</a> - Utility library for Node.js, Express, MongoDB, React, Angular</td>
-    <td width="15%" align="right"><img src="https://img.shields.io/github/stars/surajmandalcell/dolash?style=flat&color=gray&labelColor=gray" /></td>
+    <td width="80%">📦 <a href="https://github.com/surajmandalcell/dolash">dolash</a> - Utility library for Node.js, Express, MongoDB, React, Angular</td>
+    <td width="20%" align="right"><img src="https://img.shields.io/github/stars/surajmandalcell/dolash?style=flat&color=gray&labelColor=gray" /></td>
   </tr>
   <tr>
-    <td width="85%">📸 <a href="https://github.com/surajmandalcell/instagram">instagram</a> - Instagram automation/integration built with Go</td>
+    <td width="80%">📸 <a href="https://github.com/surajmandalcell/instagram">instagram</a> - Instagram automation/integration built with Go</td>
     <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
   </tr>
   <tr>
-    <td width="85%">🎙️ <a href="https://github.com/surajmandalcell/asrpro">asrpro</a> - Professional desktop app for AI speech recognition with real-time transcription</td>
+    <td width="80%">🎙️ <a href="https://github.com/surajmandalcell/asrpro">asrpro</a> - Professional desktop app for AI speech recognition with real-time transcription</td>
     <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
   </tr>
   <tr>
-    <td width="85%">📚 <a href="https://github.com/surajmandalcell/ResearchLM">ResearchLM</a> - NotebookLM with superpowers - voice-first document workspace</td>
+    <td width="80%">📚 <a href="https://github.com/surajmandalcell/ResearchLM">ResearchLM</a> - NotebookLM with superpowers - voice-first document workspace</td>
     <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
   </tr>
   <tr>
-    <td width="85%">🐘 <a href="https://github.com/surajmandalcell/pgsql-mcp">pgsql-mcp</a> - Postgres MCP with configurable read/write access and performance analysis</td>
+    <td width="80%">🐘 <a href="https://github.com/surajmandalcell/pgsql-mcp">pgsql-mcp</a> - Postgres MCP with configurable read/write access and performance analysis</td>
     <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
   </tr>
   <tr>
-    <td width="85%">☁️ <a href="https://github.com/surajmandalcell/s3-lurker">s3-lurker</a> - Self-hosted AWS S3 management with simple UI</td>
+    <td width="80%">☁️ <a href="https://github.com/surajmandalcell/s3-lurker">s3-lurker</a> - Self-hosted AWS S3 management with simple UI</td>
     <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
   </tr>
   <tr>
-    <td width="85%">🧊 <a href="https://github.com/surajmandalcell/3dtoolbox">3dtoolbox</a> - 3D modeling toolbox application</td>
+    <td width="80%">🧊 <a href="https://github.com/surajmandalcell/3dtoolbox">3dtoolbox</a> - 3D modeling toolbox application</td>
     <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
   </tr>
   <tr>
-    <td width="85%">🍽️ <a href="https://github.com/surajmandalcell/iveeaten">iveeaten</a> - Restaurant & dish tracker app with ratings, photos, and notes</td>
+    <td width="80%">🍽️ <a href="https://github.com/surajmandalcell/iveeaten">iveeaten</a> - Restaurant & dish tracker app with ratings, photos, and notes</td>
     <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
   </tr>
   <tr>
-    <td width="85%">🛸 <a href="https://github.com/surajmandalcell/dronepos">dronepos</a> - Real-time drone audio detection system with tactical UI dashboard</td>
+    <td width="80%">🛸 <a href="https://github.com/surajmandalcell/dronepos">dronepos</a> - Real-time drone audio detection system with tactical UI dashboard</td>
     <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
   </tr>
   <tr>
-    <td width="85%">📋 <a href="https://github.com/surajmandalcell/pastepro">pastepro</a> - Linux-first desktop clipboard manager (paste.app alternative)</td>
+    <td width="80%">📋 <a href="https://github.com/surajmandalcell/pastepro">pastepro</a> - Linux-first desktop clipboard manager (paste.app alternative)</td>
     <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
   </tr>
 </table>
@@ -78,6 +82,11 @@
 ### Legacy Work
 
 <table border="none" cellspacing="0" cellpadding="0">
+<tr>
+<th><img width="447" height="1"></th>
+<th><img width="313" height="1"></th>
+<th><img width="134" height="1"></th>
+</tr>
   <tr>
     <td width="50%">🌙 <a href="https://github.com/surajmandalcell/lunatecz">lunatecz</a> - Client Project</td>
     <td width="35%"><a href="https://lunatecz.com/">lunatecz.com</a></td>
