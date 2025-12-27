@@ -12,7 +12,7 @@
 
 ## Current Projects
 
-<table border="none" cellspacing="0" cellpadding="0">
+<table width="100%" border="none" cellspacing="0" cellpadding="0">
 <tr>
   <td width="80%" valign="middle">✨ <a href="https://github.com/surajmandalcell/elementary-x">elementary-x</a> - Elementary OS theme with macOS window controls</td>
   <td width="20%" align="right" valign="middle"><img src="https://img.shields.io/github/stars/surajmandalcell/elementary-x?style=flat&color=gray&labelColor=gray" /></td>
@@ -77,7 +77,7 @@
 
 ### Legacy Work
 
-<table border="none" cellspacing="0" cellpadding="0">
+<table width="100%" border="none" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" valign="middle">🌙 <a href="https://github.com/surajmandalcell/lunatecz">lunatecz</a> - Client Project</td>
     <td width="35%" valign="middle"><a href="https://lunatecz.com/">lunatecz.com</a></td>
