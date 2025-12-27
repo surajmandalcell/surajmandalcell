@@ -79,7 +79,7 @@
 
 <table style="border: none;" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="60%">🌙 <a href="https://github.com/surajmandalcell/lunatecz">lunatecz</a> - Private project</td>
+    <td width="85%">🌙 <a href="https://github.com/surajmandalcell/lunatecz">lunatecz</a> - Client Project</td>
     <td width="20%"><a href="https://lunatecz.com/">lunatecz.com</a></td>
     <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
   </tr>
