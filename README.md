@@ -14,10 +14,6 @@
 
 <table border="none" cellspacing="0" cellpadding="0">
 <tr>
-<td><img width="715" height="1"></td>
-<td><img width="179" height="1"></td>
-</tr>
-<tr>
   <td width="80%">✨ <a href="https://github.com/surajmandalcell/elementary-x">elementary-x</a> - Elementary OS theme with macOS window controls</td>
   <td width="20%" align="right"><img src="https://img.shields.io/github/stars/surajmandalcell/elementary-x?style=flat&color=gray&labelColor=gray" /></td>
 </tr>
@@ -82,11 +78,6 @@
 ### Legacy Work
 
 <table border="none" cellspacing="0" cellpadding="0">
-<tr>
-<td><img width="447" height="1"></td>
-<td><img width="313" height="1"></td>
-<td><img width="134" height="1"></td>
-</tr>
   <tr>
     <td width="50%">🌙 <a href="https://github.com/surajmandalcell/lunatecz">lunatecz</a> - Client Project</td>
     <td width="35%"><a href="https://lunatecz.com/">lunatecz.com</a></td>
