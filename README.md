@@ -85,8 +85,7 @@
 </tr>
 <tr>
 <td width="85%">📺 <a href="https://github.com/surajmandalcell/highrays-yt">highrays-yt</a> - YouTube-related project</td>
-<td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
-</tr>
+</tr>table></tr>
 <tr>
 <td width="85%">⚙️ <a href="https://github.com/surajmandalcell/highrays-root">highrays-root</a> - Root configuration for highrays</td>
 <td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
@@ -95,8 +94,4 @@
 <td width="85%">⚡ <a href="https://github.com/surajmandalcell/elec3d">elec3d</a> - 3D electrical visualization</td>
 <td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
 </tr>
-<tr>
-<td width="85%">🍱 <a href="https://github.com/surajmandalcell/meallens-iot">meallens-iot</a> - IoT application for meal management</td>
-<td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
-</tr>
-</table>
+le>
