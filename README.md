@@ -84,17 +84,17 @@
     <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
   </tr>
   <tr>
-    <td width="60%">📺 <a href="https://github.com/surajmandalcell/highrays-yt">highrays-yt</a> - YouTube-related project</td>
+    <td width="60%">📺 <a href="https://github.com/surajmandalcell/highrays-yt">highrays-yt</a> - Client Project</td>
     <td><a href="https://thehighraysyt.com/">thehighraysyt.com</a></td>
     <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
   </tr>
   <tr>
-    <td width="85%">⚙️ <a href="https://github.com/surajmandalcell/highrays-root">highrays-root</a> - Root configuration for highrays</td>
+    <td width="85%">⚙️ <a href="https://github.com/surajmandalcell/highrays-root">highrays-root</a> - Client Project</td>
     <td><a href="https://thehighrays.com/">thehighrays.com</a></td>
     <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
   </tr>
   <tr>
-    <td width="60%">⚡ <a href="https://github.com/surajmandalcell/elec3d">elec3d</a> - 3D electrical visualization</td>
+    <td width="60%">⚡ <a href="https://github.com/surajmandalcell/elec3d">elec3d</a> - Client Project</td>
     <td><a href="http://elec3d.in/">elec3d.in</a></td>
     <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
   </tr>
