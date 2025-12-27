@@ -1,8 +1,7 @@
 # Yo, I'm Suraj
 
-> Building developer tools, AI applications, and automation solutions. 3,009+ contributions this year. 📍 Ottawa, ON
+> Building developer tools, AI applications, and automation solutions. 3,009+ contributions this year. 
 
-[![GitHub](https://img.shields.io/badge/-surajmandalcell-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/surajmandalcell)
 [![Twitter](https://img.shields.io/badge/-@surajmandalcell-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/surajmandalcell)
 [![Dribbble](https://img.shields.io/badge/-surajmandalcell-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/surajmandalcell)
 [![Website](https://img.shields.io/badge/-surajmandal.in-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://surajmandal.in)
