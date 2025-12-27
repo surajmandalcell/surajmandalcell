@@ -39,40 +39,40 @@
 <td width="15%" align="right"><img src="https://img.shields.io/github/stars/surajmandalcell/dolash?style=flat&color=gray&labelColor=gray" /></td>
 </tr>
 <tr>
-<td width="85%">🔒 <a href="https://github.com/surajmandalcell/instagram">instagram</a> - Instagram automation/integration built with Go</td>
-<td width="15%" align="right"></td>
+<td width="85%">📸 <a href="https://github.com/surajmandalcell/instagram">instagram</a> - Instagram automation/integration built with Go</td>
+<td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
 </tr>
 <tr>
-<td width="85%">🔒 <a href="https://github.com/surajmandalcell/asrpro">asrpro</a> - Professional desktop app for AI speech recognition with real-time transcription</td>
-<td width="15%" align="right"></td>
+<td width="85%">🎙️ <a href="https://github.com/surajmandalcell/asrpro">asrpro</a> - Professional desktop app for AI speech recognition with real-time transcription</td>
+<td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
 </tr>
 <tr>
-<td width="85%">🔒 <a href="https://github.com/surajmandalcell/ResearchLM">ResearchLM</a> - NotebookLM with superpowers - voice-first document workspace</td>
-<td width="15%" align="right"></td>
+<td width="85%">📚 <a href="https://github.com/surajmandalcell/ResearchLM">ResearchLM</a> - NotebookLM with superpowers - voice-first document workspace</td>
+<td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
 </tr>
 <tr>
-<td width="85%">🔒 <a href="https://github.com/surajmandalcell/pgsql-mcp">pgsql-mcp</a> - Postgres MCP with configurable read/write access and performance analysis</td>
-<td width="15%" align="right"></td>
+<td width="85%">🐘 <a href="https://github.com/surajmandalcell/pgsql-mcp">pgsql-mcp</a> - Postgres MCP with configurable read/write access and performance analysis</td>
+<td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
 </tr>
 <tr>
-<td width="85%">🔒 <a href="https://github.com/surajmandalcell/s3-lurker">s3-lurker</a> - Self-hosted AWS S3 management with simple UI</td>
-<td width="15%" align="right"></td>
+<td width="85%">☁️ <a href="https://github.com/surajmandalcell/s3-lurker">s3-lurker</a> - Self-hosted AWS S3 management with simple UI</td>
+<td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
 </tr>
 <tr>
-<td width="85%">🔒 <a href="https://github.com/surajmandalcell/3dtoolbox">3dtoolbox</a> - 3D modeling toolbox application</td>
-<td width="15%" align="right"></td>
+<td width="85%">🧊 <a href="https://github.com/surajmandalcell/3dtoolbox">3dtoolbox</a> - 3D modeling toolbox application</td>
+<td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
 </tr>
 <tr>
-<td width="85%">🔒 <a href="https://github.com/surajmandalcell/iveeaten">iveeaten</a> - Restaurant & dish tracker app with ratings, photos, and notes</td>
-<td width="15%" align="right"></td>
+<td width="85%">🍽️ <a href="https://github.com/surajmandalcell/iveeaten">iveeaten</a> - Restaurant & dish tracker app with ratings, photos, and notes</td>
+<td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
 </tr>
 <tr>
-<td width="85%">🔒 <a href="https://github.com/surajmandalcell/dronepos">dronepos</a> - Real-time drone audio detection system with tactical UI dashboard</td>
-<td width="15%" align="right"></td>
+<td width="85%">🛸 <a href="https://github.com/surajmandalcell/dronepos">dronepos</a> - Real-time drone audio detection system with tactical UI dashboard</td>
+<td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
 </tr>
 <tr>
-<td width="85%">🔒 <a href="https://github.com/surajmandalcell/pastepro">pastepro</a> - Linux-first desktop clipboard manager (paste.app alternative)</td>
-<td width="15%" align="right"></td>
+<td width="85%">📋 <a href="https://github.com/surajmandalcell/pastepro">pastepro</a> - Linux-first desktop clipboard manager (paste.app alternative)</td>
+<td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
 </tr>
 </table>
 
@@ -80,23 +80,23 @@
 
 <table style="border: none;" cellspacing="0" cellpadding="0">
 <tr>
-<td width="85%">🔒 <a href="https://github.com/surajmandalcell/lunatecz">lunatecz</a> - Private project at https://lunatecz.com/</td>
-<td width="15%" align="right"></td>
+<td width="85%">🌙 <a href="https://github.com/surajmandalcell/lunatecz">lunatecz</a> - Private project at https://lunatecz.com/</td>
+<td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
 </tr>
 <tr>
-<td width="85%">🔒 <a href="https://github.com/surajmandalcell/highrays-yt">highrays-yt</a> - YouTube-related project</td>
-<td width="15%" align="right"></td>
+<td width="85%">📺 <a href="https://github.com/surajmandalcell/highrays-yt">highrays-yt</a> - YouTube-related project</td>
+<td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
 </tr>
 <tr>
-<td width="85%">🔒 <a href="https://github.com/surajmandalcell/highrays-root">highrays-root</a> - Root configuration for highrays</td>
-<td width="15%" align="right"></td>
+<td width="85%">⚙️ <a href="https://github.com/surajmandalcell/highrays-root">highrays-root</a> - Root configuration for highrays</td>
+<td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
 </tr>
 <tr>
-<td width="85%">🔒 <a href="https://github.com/surajmandalcell/elec3d">elec3d</a> - 3D electrical visualization</td>
-<td width="15%" align="right"></td>
+<td width="85%">⚡ <a href="https://github.com/surajmandalcell/elec3d">elec3d</a> - 3D electrical visualization</td>
+<td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
 </tr>
 <tr>
-<td width="85%">🔒 <a href="https://github.com/surajmandalcell/meallens-iot">meallens-iot</a> - IoT application for meal management</td>
-<td width="15%" align="right"></td>
+<td width="85%">🍱 <a href="https://github.com/surajmandalcell/meallens-iot">meallens-iot</a> - IoT application for meal management</td>
+<td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
 </tr>
 </table>
