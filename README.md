@@ -1,4 +1,4 @@
-# Yo, I'm Suraj
+# Sup, I'm Suraj
 
 > Building developer tools, AI applications, and automation solutions. 3,009+ contributions this year. 
 
