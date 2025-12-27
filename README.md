@@ -14,8 +14,8 @@
 
 <table border="none" cellspacing="0" cellpadding="0">
 <tr>
-<th><img width="715" height="1"></th>
-<th><img width="179" height="1"></th>
+<td><img width="715" height="1"></td>
+<td><img width="179" height="1"></td>
 </tr>
 <tr>
   <td width="80%">✨ <a href="https://github.com/surajmandalcell/elementary-x">elementary-x</a> - Elementary OS theme with macOS window controls</td>
@@ -83,9 +83,9 @@
 
 <table border="none" cellspacing="0" cellpadding="0">
 <tr>
-<th><img width="447" height="1"></th>
-<th><img width="313" height="1"></th>
-<th><img width="134" height="1"></th>
+<td><img width="447" height="1"></td>
+<td><img width="313" height="1"></td>
+<td><img width="134" height="1"></td>
 </tr>
   <tr>
     <td width="50%">🌙 <a href="https://github.com/surajmandalcell/lunatecz">lunatecz</a> - Client Project</td>
