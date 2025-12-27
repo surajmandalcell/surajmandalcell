@@ -60,38 +60,29 @@
 </tr>
 <tr>
 <td width="85%">🧊 <a href="https://github.com/surajmandalcell/3dtoolbox">3dtoolbox</a> - 3D modeling toolbox application</td>
-<td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
-</tr>
-<tr>
-<td width="85%">🍽️ <a href="https://github.com/surajmandalcell/iveeaten">iveeaten</a> - Restaurant & dish tracker app with ratings, photos, and notes</td>
-<td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
-</tr>
-<tr>
-<td width="85%">🛸 <a href="https://github.com/surajmandalcell/dronepos">dronepos</a> - Real-time drone audio detection system with tactical UI dashboard</td>
-<td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
-</tr>
-<tr>
-<td width="85%">📋 <a href="https://github.com/surajmandalcell/pastepro">pastepro</a> - Linux-first desktop clipboard manager (paste.app alternative)</td>
-<td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
-</tr>
-</table>
-
 ### Legacy Work
 
 <table style="border: none;" cellspacing="0" cellpadding="0">
 <tr>
-<td width="85%">🌙 <a href="https://github.com/surajmandalcell/lunatecz">lunatecz</a> - Private project at https://lunatecz.com/</td>
-<td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
+  <td width="60%">🌙 <a href="https://github.com/surajmandalcell/lunatecz">lunatecz</a>a> - Private project at https://lunatecz.com/</td>td>
+  <td width="20%"><a href="https://lunatecz.com/">https://lunatecz.com/</a>a></td>td>
+  <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>td>
+</tr>tr>
+  <tr>
+    <td width="60%">📺 <a href="https://github.com/surajmandalcell/highrays-yt">highrays-yt</a>a> - YouTube-related project</td>td>
+    <td width="20%"><a href="https://thehighraysyt.com/">https://thehighraysyt.com/</a>a></td>td>
+    <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>td>
+  </tr>tr>
+  <tr>
+    <td width="60%">⚙️ <a href="https://github.com/surajmandalcell/highrays-root">highrays-root</a>a> - Root configuration for highrays</td>td>
+    <td width="20%"><a href="https://thehighrays.com/">https://thehighrays.com/</a>a></td>td>
+    <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>td>
+  </tr>tr>
+  <tr>
+    <td width="60%">⚡ <a href="https://github.com/surajmandalcell/elec3d">elec3d</a>a> - 3D electrical visualization</td>td>
+    <td width="20%"><a href="http://elec3d.in/">http://elec3d.in/</a>a></td>td>
+    <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>td>
+  </tr>tr>
+</table>table>
+  </tr>
 </tr>
-<tr>
-<td width="85%">📺 <a href="https://github.com/surajmandalcell/highrays-yt">highrays-yt</a> - YouTube-related project</td>
-</tr>table></tr>
-<tr>
-<td width="85%">⚙️ <a href="https://github.com/surajmandalcell/highrays-root">highrays-root</a> - Root configuration for highrays</td>
-<td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
-</tr>
-<tr>
-<td width="85%">⚡ <a href="https://github.com/surajmandalcell/elec3d">elec3d</a> - 3D electrical visualization</td>
-<td width="15%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
-</tr>
-le>
