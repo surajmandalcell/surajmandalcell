@@ -81,22 +81,22 @@
   <tr>
     <td>🌙 <a href="https://github.com/surajmandalcell/lunatecz">lunatecz</a> - Client Project</td>
     <td><a href="https://lunatecz.com/">lunatecz.com</a></td>
-    <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
+    <td align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
   </tr>
   <tr>
     <td>📺 <a href="https://github.com/surajmandalcell/highrays-yt">highrays-yt</a> - Client Project</td>
     <td><a href="https://thehighraysyt.com/">thehighraysyt.com</a></td>
-    <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
+    <td align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
   </tr>
   <tr>
     <td>⚙️ <a href="https://github.com/surajmandalcell/highrays-root">highrays-root</a> - Client Project</td>
     <td><a href="https://thehighrays.com/">thehighrays.com</a></td>
-    <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
+    <td align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
   </tr>
   <tr>
     <td>⚡ <a href="https://github.com/surajmandalcell/elec3d">elec3d</a> - Client Project</td>
     <td><a href="http://elec3d.in/">elec3d.in</a></td>
-    <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
+    <td align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
   </tr>
 </table>
 </tr>
