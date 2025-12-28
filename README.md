@@ -10,7 +10,7 @@
 > [![ORCID](https://img.shields.io/badge/-0009--0004--4230--0447-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-4230-0447)
 
 
-## Current Projects
+#### Current Projects
 
 <p>
   <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/elementary-x?style=flat&color=gray&labelColor=gray" />
@@ -93,7 +93,7 @@
   📋 <a href="https://github.com/surajmandalcell/pastepro">pastepro</a> - Desktop clipboard manager
 </p>
 
-### Legacy Work
+#### Production
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
@@ -114,3 +114,5 @@
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
   ⚡ <a href="https://github.com/surajmandalcell/elec3d">elec3d</a> - Client Project · <a href="http://elec3d.in/">elec3d.in</a>
 </p>
+
+#### Legacy Projects
