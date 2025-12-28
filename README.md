@@ -14,105 +14,105 @@
 
 <p>
   <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/switch?style=flat&color=gray&labelColor=gray" />
-  🔄 <a href="https://github.com/surajmandalcell/switch">switch</a> - Multi-account switcher for AI services
+  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 8h8M8 4l4 4-4 4"/></svg> <a href="https://github.com/surajmandalcell/switch">switch</a> - Multi-account switcher for AI services
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/libigc?style=flat&color=gray&labelColor=gray" />
-  ✈️ <a href="https://github.com/surajmandalcell/libigc">libigc</a> - IGC flight file parser
+  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 10l5-6 3 3 4-5"/></svg> <a href="https://github.com/surajmandalcell/libigc">libigc</a> - IGC flight file parser
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/dolash?style=flat&color=gray&labelColor=gray" />
-  📦 <a href="https://github.com/surajmandalcell/dolash">dolash</a> - Utility lib for Node/Express/Mongo/React
+  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="12" height="10" rx="1"/><path d="M2 6h12"/></svg> <a href="https://github.com/surajmandalcell/dolash">dolash</a> - Utility lib for Node/Express/Mongo/React
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  🎙️ <a href="https://github.com/surajmandalcell/asrpro">asrpro</a> - AI speech recognition desktop app
+  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="2" width="6" height="10" rx="1"/><path d="M5 5h6M5 8h6"/></svg> <a href="https://github.com/surajmandalcell/asrpro">asrpro</a> - AI speech recognition desktop app
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  📚 <a href="https://github.com/surajmandalcell/ResearchLM">ResearchLM</a> - NotebookLM w/ superpowers
+  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 2v12h8V5l-3-3H4z"/><path d="M9 2v3h3"/></svg> <a href="https://github.com/surajmandalcell/ResearchLM">ResearchLM</a> - NotebookLM w/ superpowers
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  🐘 <a href="https://github.com/surajmandalcell/pgsql-mcp">pgsql-mcp</a> - Postgres MCP server
+  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="8" r="6"/><path d="M8 5v6M5 8h6"/></svg> <a href="https://github.com/surajmandalcell/pgsql-mcp">pgsql-mcp</a> - Postgres MCP server
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  ☁️ <a href="https://github.com/surajmandalcell/s3-lurker">s3-lurker</a> - Self-hosted S3 manager
+  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 5c1 0 3 1 3 4s-2 4-3 4H5c-1 0-3-1-3-4s2-4 3-4"/></svg> <a href="https://github.com/surajmandalcell/s3-lurker">s3-lurker</a> - Self-hosted S3 manager
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  🛸 <a href="https://github.com/surajmandalcell/dronepos">dronepos</a> - Drone audio detection system
+  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2l2 2-2 2-2-2z"/><circle cx="8" cy="10" r="4"/></svg> <a href="https://github.com/surajmandalcell/dronepos">dronepos</a> - Drone audio detection system
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  📋 <a href="https://github.com/surajmandalcell/pastepro">pastepro</a> - Desktop clipboard manager
+  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="2" width="8" height="12" rx="1"/><path d="M4 5h8M4 8h8M4 11h8"/></svg> <a href="https://github.com/surajmandalcell/pastepro">pastepro</a> - Desktop clipboard manager
 </p>
 
 #### Production
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  ⚡ <a href="https://github.com/surajmandalcell/elec3d">elec3d</a> - Client Project · <a href="http://elec3d.in/">elec3d.in</a>
+  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 8l5 5 5-5M8 13V3"/></svg> <a href="https://github.com/surajmandalcell/elec3d">elec3d</a> - Client Project · <a href="http://elec3d.in/">elec3d.in</a>
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  🌙 <a href="https://github.com/surajmandalcell/lunatecz">lunatecz</a> - Client Project · <a href="https://lunatecz.com/">lunatecz.com</a>
+  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3c-2.5 0-4 2-4 4 0 3 4 6 4 6s4-3 4-6c0-2-1.5-4-4-4z"/></svg> <a href="https://github.com/surajmandalcell/lunatecz">lunatecz</a> - Client Project · <a href="https://lunatecz.com/">lunatecz.com</a>
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  ⚙️ <a href="https://github.com/surajmandalcell/highrays-root">highrays-root</a> - Client Project · <a href="https://thehighrays.com/">thehighrays.com</a>
+  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="8" r="5"/><path d="M8 3v5l3 3"/></svg> <a href="https://github.com/surajmandalcell/highrays-root">highrays-root</a> - Client Project · <a href="https://thehighrays.com/">thehighrays.com</a>
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  📺 <a href="https://github.com/surajmandalcell/highrays-yt">highrays-yt</a> - Client Project · <a href="https://thehighraysyt.com/">thehighraysyt.com</a>
+  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="12" height="10" rx="1"/><circle cx="8" cy="8" r="1.5"/></svg> <a href="https://github.com/surajmandalcell/highrays-yt">highrays-yt</a> - Client Project · <a href="https://thehighraysyt.com/">thehighraysyt.com</a>
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  🧊 <a href="https://github.com/surajmandalcell/3dtoolbox">3dtoolbox</a> - 3D modeling toolbox · <a href="https://toolbox.elec3d.in">toolbox.elec3d.in</a>
+  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2L4 6h3v6h2V6h3z"/><path d="M4 14h8"/></svg> <a href="https://github.com/surajmandalcell/3dtoolbox">3dtoolbox</a> - 3D modeling toolbox · <a href="https://toolbox.elec3d.in">toolbox.elec3d.in</a>
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  🍽️ <a href="https://github.com/surajmandalcell/iveeaten">iveeaten</a> - Restaurant tracker w/ ratings · <a href="https://iveeaten.com">iveeaten.com</a>
+  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="8" r="6"/><path d="M8 11V8M8 5h.01"/></svg> <a href="https://github.com/surajmandalcell/iveeaten">iveeaten</a> - Restaurant tracker w/ ratings · <a href="https://iveeaten.com">iveeaten.com</a>
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  📸 <a href="https://github.com/surajmandalcell/instagram">instagram</a> - Instagram automation (Go) · <a href="https://instagram.mandalsuraj.com">instagram.mandalsuraj.com</a>
+  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="10" height="10" rx="2"/><circle cx="8" cy="8" r="2.5"/></svg> <a href="https://github.com/surajmandalcell/instagram">instagram</a> - Instagram automation (Go) · <a href="https://instagram.mandalsuraj.com">instagram.mandalsuraj.com</a>
 </p>
 
 #### Legacy Projects
 
 <p>
   <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/elementary-x?style=flat&color=gray&labelColor=gray" />
-  ✨ <a href="https://github.com/surajmandalcell/elementary-x">elementary-x</a> - Elementary OS theme w/ macOS controls
+  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="12" height="10" rx="1"/><path d="M2 6h12"/></svg> <a href="https://github.com/surajmandalcell/elementary-x">elementary-x</a> - Elementary OS theme w/ macOS controls
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/gtk-theming-guide?style=flat&color=gray&labelColor=gray" />
-  🎨 <a href="https://github.com/surajmandalcell/gtk-theming-guide">gtk-theming-guide</a> - GTK theming guide · <a href="http://gtkthemingguide.mandalsuraj.com">gtkthemingguide.mandalsuraj.com</a>
+  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="6" r="3"/><path d="M4 13c0-2 1.5-3 4-3s4 1 4 3"/></svg> <a href="https://github.com/surajmandalcell/gtk-theming-guide">gtk-theming-guide</a> - GTK theming guide · <a href="http://gtkthemingguide.mandalsuraj.com">gtkthemingguide.mandalsuraj.com</a>
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/elegant-sddm?style=flat&color=gray&labelColor=gray" />
-  🖥️ <a href="https://github.com/surajmandalcell/elegant-sddm">elegant-sddm</a> - SDDM login theme for KDE
+  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="2" width="10" height="11" rx="1"/><path d="M3 5h10M6 8h4M7 11h2"/></svg> <a href="https://github.com/surajmandalcell/elegant-sddm">elegant-sddm</a> - SDDM login theme for KDE
 </p>
