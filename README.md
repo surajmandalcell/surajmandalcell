@@ -12,25 +12,99 @@
 
 ## Current Projects
 
-- ✨ [elementary-x](https://github.com/surajmandalcell/elementary-x) - Elementary OS theme w/ macOS controls ![](https://img.shields.io/github/stars/surajmandalcell/elementary-x?style=flat&color=gray&labelColor=gray)
-- 🎨 [gtk-theming-guide](https://github.com/surajmandalcell/gtk-theming-guide) - GTK theming guide ![](https://img.shields.io/github/stars/surajmandalcell/gtk-theming-guide?style=flat&color=gray&labelColor=gray)
-- 🖥️ [elegant-sddm](https://github.com/surajmandalcell/elegant-sddm) - SDDM login theme for KDE ![](https://img.shields.io/github/stars/surajmandalcell/elegant-sddm?style=flat&color=gray&labelColor=gray)
-- 🔄 [switch](https://github.com/surajmandalcell/switch) - Multi-account switcher for AI services ![](https://img.shields.io/github/stars/surajmandalcell/switch?style=flat&color=gray&labelColor=gray)
-- ✈️ [libigc](https://github.com/surajmandalcell/libigc) - IGC flight file parser ![](https://img.shields.io/github/stars/surajmandalcell/libigc?style=flat&color=gray&labelColor=gray)
-- 📦 [dolash](https://github.com/surajmandalcell/dolash) - Utility lib for Node/Express/Mongo/React ![](https://img.shields.io/github/stars/surajmandalcell/dolash?style=flat&color=gray&labelColor=gray)
-- 📸 [instagram](https://github.com/surajmandalcell/instagram) - Instagram automation (Go) ![](https://img.shields.io/badge/Private-gray?style=flat)
-- 🎙️ [asrpro](https://github.com/surajmandalcell/asrpro) - AI speech recognition desktop app ![](https://img.shields.io/badge/Private-gray?style=flat)
-- 📚 [ResearchLM](https://github.com/surajmandalcell/ResearchLM) - NotebookLM w/ superpowers ![](https://img.shields.io/badge/Private-gray?style=flat)
-- 🐘 [pgsql-mcp](https://github.com/surajmandalcell/pgsql-mcp) - Postgres MCP server ![](https://img.shields.io/badge/Private-gray?style=flat)
-- ☁️ [s3-lurker](https://github.com/surajmandalcell/s3-lurker) - Self-hosted S3 manager ![](https://img.shields.io/badge/Private-gray?style=flat)
-- 🧊 [3dtoolbox](https://github.com/surajmandalcell/3dtoolbox) - 3D modeling toolbox ![](https://img.shields.io/badge/Private-gray?style=flat)
-- 🍽️ [iveeaten](https://github.com/surajmandalcell/iveeaten) - Restaurant tracker w/ ratings ![](https://img.shields.io/badge/Private-gray?style=flat)
-- 🛸 [dronepos](https://github.com/surajmandalcell/dronepos) - Drone audio detection system ![](https://img.shields.io/badge/Private-gray?style=flat)
-- 📋 [pastepro](https://github.com/surajmandalcell/pastepro) - Desktop clipboard manager ![](https://img.shields.io/badge/Private-gray?style=flat)
+<p>
+  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/elementary-x?style=flat&color=gray&labelColor=gray" />
+  ✨ <a href="https://github.com/surajmandalcell/elementary-x">elementary-x</a> - Elementary OS theme w/ macOS controls
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/gtk-theming-guide?style=flat&color=gray&labelColor=gray" />
+  🎨 <a href="https://github.com/surajmandalcell/gtk-theming-guide">gtk-theming-guide</a> - GTK theming guide
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/elegant-sddm?style=flat&color=gray&labelColor=gray" />
+  🖥️ <a href="https://github.com/surajmandalcell/elegant-sddm">elegant-sddm</a> - SDDM login theme for KDE
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/switch?style=flat&color=gray&labelColor=gray" />
+  🔄 <a href="https://github.com/surajmandalcell/switch">switch</a> - Multi-account switcher for AI services
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/libigc?style=flat&color=gray&labelColor=gray" />
+  ✈️ <a href="https://github.com/surajmandalcell/libigc">libigc</a> - IGC flight file parser
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/dolash?style=flat&color=gray&labelColor=gray" />
+  📦 <a href="https://github.com/surajmandalcell/dolash">dolash</a> - Utility lib for Node/Express/Mongo/React
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  📸 <a href="https://github.com/surajmandalcell/instagram">instagram</a> - Instagram automation (Go)
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  🎙️ <a href="https://github.com/surajmandalcell/asrpro">asrpro</a> - AI speech recognition desktop app
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  📚 <a href="https://github.com/surajmandalcell/ResearchLM">ResearchLM</a> - NotebookLM w/ superpowers
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  🐘 <a href="https://github.com/surajmandalcell/pgsql-mcp">pgsql-mcp</a> - Postgres MCP server
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  ☁️ <a href="https://github.com/surajmandalcell/s3-lurker">s3-lurker</a> - Self-hosted S3 manager
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  🧊 <a href="https://github.com/surajmandalcell/3dtoolbox">3dtoolbox</a> - 3D modeling toolbox
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  🍽️ <a href="https://github.com/surajmandalcell/iveeaten">iveeaten</a> - Restaurant tracker w/ ratings
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  🛸 <a href="https://github.com/surajmandalcell/dronepos">dronepos</a> - Drone audio detection system
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  📋 <a href="https://github.com/surajmandalcell/pastepro">pastepro</a> - Desktop clipboard manager
+</p>
 
 ### Legacy Work
 
-- 🌙 [lunatecz](https://github.com/surajmandalcell/lunatecz) - Client Project · [lunatecz.com](https://lunatecz.com/) ![](https://img.shields.io/badge/Private-gray?style=flat)
-- 📺 [highrays-yt](https://github.com/surajmandalcell/highrays-yt) - Client Project · [thehighraysyt.com](https://thehighraysyt.com/) ![](https://img.shields.io/badge/Private-gray?style=flat)
-- ⚙️ [highrays-root](https://github.com/surajmandalcell/highrays-root) - Client Project · [thehighrays.com](https://thehighrays.com/) ![](https://img.shields.io/badge/Private-gray?style=flat)
-- ⚡ [elec3d](https://github.com/surajmandalcell/elec3d) - Client Project · [elec3d.in](http://elec3d.in/) ![](https://img.shields.io/badge/Private-gray?style=flat)
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  🌙 <a href="https://github.com/surajmandalcell/lunatecz">lunatecz</a> - Client Project · <a href="https://lunatecz.com/">lunatecz.com</a>
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  📺 <a href="https://github.com/surajmandalcell/highrays-yt">highrays-yt</a> - Client Project · <a href="https://thehighraysyt.com/">thehighraysyt.com</a>
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  ⚙️ <a href="https://github.com/surajmandalcell/highrays-root">highrays-root</a> - Client Project · <a href="https://thehighrays.com/">thehighrays.com</a>
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  ⚡ <a href="https://github.com/surajmandalcell/elec3d">elec3d</a> - Client Project · <a href="http://elec3d.in/">elec3d.in</a>
+</p>
