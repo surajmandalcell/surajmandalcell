@@ -67,27 +67,7 @@
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  📸 <a href="https://github.com/surajmandalcell/instagram">instagram</a> - Instagram automation (Go) · <a href="https://instagram.mandalsuraj.com">instagram.mandalsuraj.com</a>
-</p>
-
-<p>
-  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  🍽️ <a href="https://github.com/surajmandalcell/iveeaten">iveeaten</a> - Restaurant tracker w/ ratings · <a href="https://iveeaten.com">iveeaten.com</a>
-</p>
-
-<p>
-  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  🧊 <a href="https://github.com/surajmandalcell/3dtoolbox">3dtoolbox</a> - 3D modeling toolbox · <a href="https://toolbox.elec3d.in">toolbox.elec3d.in</a>
-</p>
-
-<p>
-  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  📺 <a href="https://github.com/surajmandalcell/highrays-yt">highrays-yt</a> - Client Project · <a href="https://thehighraysyt.com/">thehighraysyt.com</a>
-</p>
-
-<p>
-  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  ⚙️ <a href="https://github.com/surajmandalcell/highrays-root">highrays-root</a> - Client Project · <a href="https://thehighrays.com/">thehighrays.com</a>
+  ⚡ <a href="https://github.com/surajmandalcell/elec3d">elec3d</a> - Client Project · <a href="http://elec3d.in/">elec3d.in</a>
 </p>
 
 <p>
@@ -97,7 +77,27 @@
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  ⚡ <a href="https://github.com/surajmandalcell/elec3d">elec3d</a> - Client Project · <a href="http://elec3d.in/">elec3d.in</a>
+  ⚙️ <a href="https://github.com/surajmandalcell/highrays-root">highrays-root</a> - Client Project · <a href="https://thehighrays.com/">thehighrays.com</a>
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  📺 <a href="https://github.com/surajmandalcell/highrays-yt">highrays-yt</a> - Client Project · <a href="https://thehighraysyt.com/">thehighraysyt.com</a>
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  🧊 <a href="https://github.com/surajmandalcell/3dtoolbox">3dtoolbox</a> - 3D modeling toolbox · <a href="https://toolbox.elec3d.in">toolbox.elec3d.in</a>
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  🍽️ <a href="https://github.com/surajmandalcell/iveeaten">iveeaten</a> - Restaurant tracker w/ ratings · <a href="https://iveeaten.com">iveeaten.com</a>
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  📸 <a href="https://github.com/surajmandalcell/instagram">instagram</a> - Instagram automation (Go) · <a href="https://instagram.mandalsuraj.com">instagram.mandalsuraj.com</a>
 </p>
 
 #### Legacy Projects
