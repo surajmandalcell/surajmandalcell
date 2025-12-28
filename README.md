@@ -10,93 +10,109 @@
 > [![ORCID](https://img.shields.io/badge/-0009--0004--4230--0447-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-4230-0447)
 
 
-## Current Projects
+#### Current Projects
 
-<table border="none" cellspacing="0" cellpadding="0">
-<tr>
-  <td width="85%">✨ <a href="https://github.com/surajmandalcell/elementary-x">elementary-x</a> - Elementary OS theme with macOS window controls</td>
-  <td width="15%" align="right"><img src="https://img.shields.io/github/stars/surajmandalcell/elementary-x?style=flat&color=gray&labelColor=gray" /></td>
-</tr>
-  <tr>
-    <td width="85%">🎨 <a href="https://github.com/surajmandalcell/gtk-theming-guide">gtk-theming-guide</a> - Beginner's guide to creating GTK themes</td>
-    <td width="15%" align="right"><img src="https://img.shields.io/github/stars/surajmandalcell/gtk-theming-guide?style=flat&color=gray&labelColor=gray" /></td>
-  </tr>
-  <tr>
-    <td width="85%">🖥️ <a href="https://github.com/surajmandalcell/elegant-sddm">elegant-sddm</a> - Sleek SDDM login theme for KDE Plasma crafted in QML</td>
-    <td width="15%" align="right"><img src="https://img.shields.io/github/stars/surajmandalcell/elegant-sddm?style=flat&color=gray&labelColor=gray" /></td>
-  </tr>
-  <tr>
-    <td width="85%">🔄 <a href="https://github.com/surajmandalcell/switch">switch</a> - CLI tool for switching between multiple auth accounts for AI services</td>
-    <td width="15%" align="right"><img src="https://img.shields.io/github/stars/surajmandalcell/switch?style=flat&color=gray&labelColor=gray" /></td>
-  </tr>
-  <tr>
-    <td width="85%">✈️ <a href="https://github.com/surajmandalcell/libigc">libigc</a> - Python library for parsing IGC flight files and extracting thermals</td>
-    <td width="15%" align="right"><img src="https://img.shields.io/github/stars/surajmandalcell/libigc?style=flat&color=gray&labelColor=gray" /></td>
-  </tr>
-  <tr>
-    <td width="85%">📦 <a href="https://github.com/surajmandalcell/dolash">dolash</a> - Utility library for Node.js, Express, MongoDB, React, Angular</td>
-    <td width="15%" align="right"><img src="https://img.shields.io/github/stars/surajmandalcell/dolash?style=flat&color=gray&labelColor=gray" /></td>
-  </tr>
-  <tr>
-    <td width="85%">📸 <a href="https://github.com/surajmandalcell/instagram">instagram</a> - Instagram automation/integration built with Go</td>
-    <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
-  </tr>
-  <tr>
-    <td width="85%">🎙️ <a href="https://github.com/surajmandalcell/asrpro">asrpro</a> - Professional desktop app for AI speech recognition with real-time transcription</td>
-    <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
-  </tr>
-  <tr>
-    <td width="85%">📚 <a href="https://github.com/surajmandalcell/ResearchLM">ResearchLM</a> - NotebookLM with superpowers - voice-first document workspace</td>
-    <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
-  </tr>
-  <tr>
-    <td width="85%">🐘 <a href="https://github.com/surajmandalcell/pgsql-mcp">pgsql-mcp</a> - Postgres MCP with configurable read/write access and performance analysis</td>
-    <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
-  </tr>
-  <tr>
-    <td width="85%">☁️ <a href="https://github.com/surajmandalcell/s3-lurker">s3-lurker</a> - Self-hosted AWS S3 management with simple UI</td>
-    <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
-  </tr>
-  <tr>
-    <td width="85%">🧊 <a href="https://github.com/surajmandalcell/3dtoolbox">3dtoolbox</a> - 3D modeling toolbox application</td>
-    <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
-  </tr>
-  <tr>
-    <td width="85%">🍽️ <a href="https://github.com/surajmandalcell/iveeaten">iveeaten</a> - Restaurant & dish tracker app with ratings, photos, and notes</td>
-    <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
-  </tr>
-  <tr>
-    <td width="85%">🛸 <a href="https://github.com/surajmandalcell/dronepos">dronepos</a> - Real-time drone audio detection system with tactical UI dashboard</td>
-    <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
-  </tr>
-  <tr>
-    <td width="85%">📋 <a href="https://github.com/surajmandalcell/pastepro">pastepro</a> - Linux-first desktop clipboard manager (paste.app alternative)</td>
-    <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
-  </tr>
-</table>
+<p>
+  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/switch?style=flat&color=gray&labelColor=gray" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/switch.svg"><img src=".github/icons/dark/switch.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/switch">switch</a> - Multi-account switcher for AI services
+</p>
 
-### Legacy Work
+<p>
+  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/libigc?style=flat&color=gray&labelColor=gray" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/plane.svg"><img src=".github/icons/dark/plane.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/libigc">libigc</a> - IGC flight file parser
+</p>
 
-<table border="none" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="85%">🌙 <a href="https://github.com/surajmandalcell/lunatecz">lunatecz</a> - Client Project</td>
-    <td><a href="https://lunatecz.com/">lunatecz.com</a></td>
-    <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
-  </tr>
-  <tr>
-    <td width="85%">📺 <a href="https://github.com/surajmandalcell/highrays-yt">highrays-yt</a> - Client Project</td>
-    <td><a href="https://thehighraysyt.com/">thehighraysyt.com</a></td>
-    <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
-  </tr>
-  <tr>
-    <td width="85%">⚙️ <a href="https://github.com/surajmandalcell/highrays-root">highrays-root</a> - Client Project</td>
-    <td><a href="https://thehighrays.com/">thehighrays.com</a></td>
-    <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
-  </tr>
-  <tr>
-    <td width="85%">⚡ <a href="https://github.com/surajmandalcell/elec3d">elec3d</a> - Client Project</td>
-    <td><a href="http://elec3d.in/">elec3d.in</a></td>
-    <td width="20%" align="right"><img src="https://img.shields.io/badge/Private-gray?style=flat" /></td>
-  </tr>
-</table>
-</tr>
+<p>
+  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/dolash?style=flat&color=gray&labelColor=gray" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/package.svg"><img src=".github/icons/dark/package.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/dolash">dolash</a> - Utility lib for Node/Express/Mongo/React
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/mic.svg"><img src=".github/icons/dark/mic.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/asrpro">asrpro</a> - AI speech recognition desktop app
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/book.svg"><img src=".github/icons/dark/book.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/ResearchLM">ResearchLM</a> - NotebookLM w/ superpowers
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/database.svg"><img src=".github/icons/dark/database.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/pgsql-mcp">pgsql-mcp</a> - Postgres MCP server
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/cloud.svg"><img src=".github/icons/dark/cloud.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/s3-lurker">s3-lurker</a> - Self-hosted S3 manager
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/radio.svg"><img src=".github/icons/dark/radio.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/dronepos">dronepos</a> - Drone audio detection system
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/clipboard.svg"><img src=".github/icons/dark/clipboard.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/pastepro">pastepro</a> - Desktop clipboard manager
+</p>
+
+#### Production
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/zap.svg"><img src=".github/icons/dark/zap.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/elec3d">elec3d</a> - Client Project · <a href="http://elec3d.in/">elec3d.in</a>
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/moon.svg"><img src=".github/icons/dark/moon.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/lunatecz">lunatecz</a> - Client Project · <a href="https://lunatecz.com/">lunatecz.com</a>
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/settings.svg"><img src=".github/icons/dark/settings.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/highrays-root">highrays-root</a> - Client Project · <a href="https://thehighrays.com/">thehighrays.com</a>
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/tv.svg"><img src=".github/icons/dark/tv.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/highrays-yt">highrays-yt</a> - Client Project · <a href="https://thehighraysyt.com/">thehighraysyt.com</a>
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/box.svg"><img src=".github/icons/dark/box.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/3dtoolbox">3dtoolbox</a> - 3D modeling toolbox · <a href="https://toolbox.elec3d.in">toolbox.elec3d.in</a>
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/utensils.svg"><img src=".github/icons/dark/utensils.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/iveeaten">iveeaten</a> - Restaurant tracker w/ ratings · <a href="https://iveeaten.com">iveeaten.com</a>
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/camera.svg"><img src=".github/icons/dark/camera.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/instagram">instagram</a> - Instagram automation (Go) · <a href="https://instagram.mandalsuraj.com">instagram.mandalsuraj.com</a>
+</p>
+
+#### Legacy Projects
+
+<p>
+  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/elementary-x?style=flat&color=gray&labelColor=gray" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/sparkles.svg"><img src=".github/icons/dark/sparkles.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/elementary-x">elementary-x</a> - Elementary OS theme w/ macOS controls
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/gtk-theming-guide?style=flat&color=gray&labelColor=gray" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/palette.svg"><img src=".github/icons/dark/palette.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/gtk-theming-guide">gtk-theming-guide</a> - GTK theming guide · <a href="http://gtkthemingguide.mandalsuraj.com">gtkthemingguide.mandalsuraj.com</a>
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/elegant-sddm?style=flat&color=gray&labelColor=gray" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/monitor.svg"><img src=".github/icons/dark/monitor.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/elegant-sddm">elegant-sddm</a> - SDDM login theme for KDE
+</p>
