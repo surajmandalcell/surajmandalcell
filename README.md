@@ -13,21 +13,6 @@
 #### Current Projects
 
 <p>
-  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/elementary-x?style=flat&color=gray&labelColor=gray" />
-  ✨ <a href="https://github.com/surajmandalcell/elementary-x">elementary-x</a> - Elementary OS theme w/ macOS controls
-</p>
-
-<p>
-  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/gtk-theming-guide?style=flat&color=gray&labelColor=gray" />
-  🎨 <a href="https://github.com/surajmandalcell/gtk-theming-guide">gtk-theming-guide</a> - GTK theming guide · <a href="http://gtkthemingguide.mandalsuraj.com">gtkthemingguide.mandalsuraj.com</a>
-</p>
-
-<p>
-  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/elegant-sddm?style=flat&color=gray&labelColor=gray" />
-  🖥️ <a href="https://github.com/surajmandalcell/elegant-sddm">elegant-sddm</a> - SDDM login theme for KDE
-</p>
-
-<p>
   <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/switch?style=flat&color=gray&labelColor=gray" />
   🔄 <a href="https://github.com/surajmandalcell/switch">switch</a> - Multi-account switcher for AI services
 </p>
@@ -48,47 +33,37 @@
 </p>
 
 <p>
-  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=FFE5CC&color=gray" />
+  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=D6896D&color=gray" />
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
   🎙️ <a href="https://github.com/surajmandalcell/asrpro">asrpro</a> - AI speech recognition desktop app
 </p>
 
 <p>
-  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=FFE5CC&color=gray" />
+  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=D6896D&color=gray" />
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
   📚 <a href="https://github.com/surajmandalcell/ResearchLM">ResearchLM</a> - NotebookLM w/ superpowers
 </p>
 
 <p>
-  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=FFE5CC&color=gray" />
+  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=D6896D&color=gray" />
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
   🐘 <a href="https://github.com/surajmandalcell/pgsql-mcp">pgsql-mcp</a> - Postgres MCP server
 </p>
 
 <p>
-  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=FFE5CC&color=gray" />
+  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=D6896D&color=gray" />
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
   ☁️ <a href="https://github.com/surajmandalcell/s3-lurker">s3-lurker</a> - Self-hosted S3 manager
 </p>
 
 <p>
-  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  🧊 <a href="https://github.com/surajmandalcell/3dtoolbox">3dtoolbox</a> - 3D modeling toolbox · <a href="https://toolbox.elec3d.in">toolbox.elec3d.in</a>
-</p>
-
-<p>
-  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  🍽️ <a href="https://github.com/surajmandalcell/iveeaten">iveeaten</a> - Restaurant tracker w/ ratings · <a href="https://iveeaten.com">iveeaten.com</a>
-</p>
-
-<p>
-  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=FFE5CC&color=gray" />
+  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=D6896D&color=gray" />
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
   🛸 <a href="https://github.com/surajmandalcell/dronepos">dronepos</a> - Drone audio detection system
 </p>
 
 <p>
-  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=FFE5CC&color=gray" />
+  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=D6896D&color=gray" />
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
   📋 <a href="https://github.com/surajmandalcell/pastepro">pastepro</a> - Desktop clipboard manager
 </p>
@@ -115,4 +90,29 @@
   ⚡ <a href="https://github.com/surajmandalcell/elec3d">elec3d</a> - Client Project · <a href="http://elec3d.in/">elec3d.in</a>
 </p>
 
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  🧊 <a href="https://github.com/surajmandalcell/3dtoolbox">3dtoolbox</a> - 3D modeling toolbox · <a href="https://toolbox.elec3d.in">toolbox.elec3d.in</a>
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  🍽️ <a href="https://github.com/surajmandalcell/iveeaten">iveeaten</a> - Restaurant tracker w/ ratings · <a href="https://iveeaten.com">iveeaten.com</a>
+</p>
+
 #### Legacy Projects
+
+<p>
+  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/elementary-x?style=flat&color=gray&labelColor=gray" />
+  ✨ <a href="https://github.com/surajmandalcell/elementary-x">elementary-x</a> - Elementary OS theme w/ macOS controls
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/gtk-theming-guide?style=flat&color=gray&labelColor=gray" />
+  🎨 <a href="https://github.com/surajmandalcell/gtk-theming-guide">gtk-theming-guide</a> - GTK theming guide · <a href="http://gtkthemingguide.mandalsuraj.com">gtkthemingguide.mandalsuraj.com</a>
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/elegant-sddm?style=flat&color=gray&labelColor=gray" />
+  🖥️ <a href="https://github.com/surajmandalcell/elegant-sddm">elegant-sddm</a> - SDDM login theme for KDE
+</p>
