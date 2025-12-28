@@ -19,7 +19,7 @@
 
 <p>
   <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/gtk-theming-guide?style=flat&color=gray&labelColor=gray" />
-  🎨 <a href="https://github.com/surajmandalcell/gtk-theming-guide">gtk-theming-guide</a> - GTK theming guide
+  🎨 <a href="https://github.com/surajmandalcell/gtk-theming-guide">gtk-theming-guide</a> - GTK theming guide · <a href="http://gtkthemingguide.mandalsuraj.com">gtkthemingguide.mandalsuraj.com</a>
 </p>
 
 <p>
@@ -44,47 +44,47 @@
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  📸 <a href="https://github.com/surajmandalcell/instagram">instagram</a> - Instagram automation (Go)
+  📸 <a href="https://github.com/surajmandalcell/instagram">instagram</a> - Instagram automation (Go) · <a href="https://instagram.mandalsuraj.com">instagram.mandalsuraj.com</a>
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  🎙️ <a href="https://github.com/surajmandalcell/asrpro">asrpro</a> - AI speech recognition desktop app
+  🎙️ <a href="https://github.com/surajmandalcell/asrpro">asrpro</a> - AI speech recognition desktop app <img src="https://img.shields.io/badge/Heavy_WIP-orange?style=flat" />
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  📚 <a href="https://github.com/surajmandalcell/ResearchLM">ResearchLM</a> - NotebookLM w/ superpowers
+  📚 <a href="https://github.com/surajmandalcell/ResearchLM">ResearchLM</a> - NotebookLM w/ superpowers <img src="https://img.shields.io/badge/Heavy_WIP-orange?style=flat" />
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  🐘 <a href="https://github.com/surajmandalcell/pgsql-mcp">pgsql-mcp</a> - Postgres MCP server
+  🐘 <a href="https://github.com/surajmandalcell/pgsql-mcp">pgsql-mcp</a> - Postgres MCP server <img src="https://img.shields.io/badge/Heavy_WIP-orange?style=flat" />
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  ☁️ <a href="https://github.com/surajmandalcell/s3-lurker">s3-lurker</a> - Self-hosted S3 manager
+  ☁️ <a href="https://github.com/surajmandalcell/s3-lurker">s3-lurker</a> - Self-hosted S3 manager <img src="https://img.shields.io/badge/Heavy_WIP-orange?style=flat" />
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  🧊 <a href="https://github.com/surajmandalcell/3dtoolbox">3dtoolbox</a> - 3D modeling toolbox
+  🧊 <a href="https://github.com/surajmandalcell/3dtoolbox">3dtoolbox</a> - 3D modeling toolbox · <a href="https://toolbox.elec3d.in">toolbox.elec3d.in</a>
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  🍽️ <a href="https://github.com/surajmandalcell/iveeaten">iveeaten</a> - Restaurant tracker w/ ratings
+  🍽️ <a href="https://github.com/surajmandalcell/iveeaten">iveeaten</a> - Restaurant tracker w/ ratings · <a href="https://iveeaten.com">iveeaten.com</a>
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  🛸 <a href="https://github.com/surajmandalcell/dronepos">dronepos</a> - Drone audio detection system
+  🛸 <a href="https://github.com/surajmandalcell/dronepos">dronepos</a> - Drone audio detection system <img src="https://img.shields.io/badge/Heavy_WIP-orange?style=flat" />
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  📋 <a href="https://github.com/surajmandalcell/pastepro">pastepro</a> - Desktop clipboard manager
+  📋 <a href="https://github.com/surajmandalcell/pastepro">pastepro</a> - Desktop clipboard manager <img src="https://img.shields.io/badge/Heavy_WIP-orange?style=flat" />
 </p>
 
 ### Legacy Work
