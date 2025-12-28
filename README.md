@@ -28,42 +28,37 @@
 </p>
 
 <p>
-  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  📸 <a href="https://github.com/surajmandalcell/instagram">instagram</a> - Instagram automation (Go) · <a href="https://instagram.mandalsuraj.com">instagram.mandalsuraj.com</a>
-</p>
-
-<p>
-  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=D6896D&color=gray" />
+  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
   🎙️ <a href="https://github.com/surajmandalcell/asrpro">asrpro</a> - AI speech recognition desktop app
 </p>
 
 <p>
-  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=D6896D&color=gray" />
+  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
   📚 <a href="https://github.com/surajmandalcell/ResearchLM">ResearchLM</a> - NotebookLM w/ superpowers
 </p>
 
 <p>
-  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=D6896D&color=gray" />
+  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
   🐘 <a href="https://github.com/surajmandalcell/pgsql-mcp">pgsql-mcp</a> - Postgres MCP server
 </p>
 
 <p>
-  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=D6896D&color=gray" />
+  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
   ☁️ <a href="https://github.com/surajmandalcell/s3-lurker">s3-lurker</a> - Self-hosted S3 manager
 </p>
 
 <p>
-  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=D6896D&color=gray" />
+  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
   🛸 <a href="https://github.com/surajmandalcell/dronepos">dronepos</a> - Drone audio detection system
 </p>
 
 <p>
-  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=D6896D&color=gray" />
+  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
   📋 <a href="https://github.com/surajmandalcell/pastepro">pastepro</a> - Desktop clipboard manager
 </p>
@@ -72,7 +67,17 @@
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  🌙 <a href="https://github.com/surajmandalcell/lunatecz">lunatecz</a> - Client Project · <a href="https://lunatecz.com/">lunatecz.com</a>
+  📸 <a href="https://github.com/surajmandalcell/instagram">instagram</a> - Instagram automation (Go) · <a href="https://instagram.mandalsuraj.com">instagram.mandalsuraj.com</a>
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  🍽️ <a href="https://github.com/surajmandalcell/iveeaten">iveeaten</a> - Restaurant tracker w/ ratings · <a href="https://iveeaten.com">iveeaten.com</a>
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  🧊 <a href="https://github.com/surajmandalcell/3dtoolbox">3dtoolbox</a> - 3D modeling toolbox · <a href="https://toolbox.elec3d.in">toolbox.elec3d.in</a>
 </p>
 
 <p>
@@ -87,17 +92,12 @@
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  🌙 <a href="https://github.com/surajmandalcell/lunatecz">lunatecz</a> - Client Project · <a href="https://lunatecz.com/">lunatecz.com</a>
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
   ⚡ <a href="https://github.com/surajmandalcell/elec3d">elec3d</a> - Client Project · <a href="http://elec3d.in/">elec3d.in</a>
-</p>
-
-<p>
-  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  🧊 <a href="https://github.com/surajmandalcell/3dtoolbox">3dtoolbox</a> - 3D modeling toolbox · <a href="https://toolbox.elec3d.in">toolbox.elec3d.in</a>
-</p>
-
-<p>
-  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  🍽️ <a href="https://github.com/surajmandalcell/iveeaten">iveeaten</a> - Restaurant tracker w/ ratings · <a href="https://iveeaten.com">iveeaten.com</a>
 </p>
 
 #### Legacy Projects
