@@ -100,6 +100,11 @@
   <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/camera.svg"><img src=".github/icons/dark/camera.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/instagram">instagram</a> - My Virtual Photography Site (Go+ReactESM) · <a href="https://instagram.mandalsuraj.com">instagram.mandalsuraj.com</a>
 </p>
 
+<p>
+  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/clipboard.svg"><img src=".github/icons/dark/clipboard.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/quizzler">quizzler</a> - Quiz & trivia application · <a href="https://quizzler.mandalsuraj.com">quizzler.mandalsuraj.com</a>
+</p>
+
 #### Legacy Projects
 
 <p>
