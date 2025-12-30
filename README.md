@@ -18,16 +18,6 @@ Building developer tools, AI applications, and automation solutions. 3,009+ cont
 </p>
 
 <p>
-  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/libigc?style=flat&color=gray&labelColor=gray" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/plane.svg"><img src=".github/icons/dark/plane.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/libigc">libigc</a> - IGC flight file parser
-</p>
-
-<p>
-  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/dolash?style=flat&color=gray&labelColor=gray" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/package.svg"><img src=".github/icons/dark/package.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/dolash">dolash</a> - Utility lib for Node/Express/Mongo/React
-</p>
-
-<p>
   <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
   <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/mic.svg"><img src=".github/icons/dark/mic.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/asrpro">asrpro</a> - AI speech recognition desktop app
@@ -103,6 +93,23 @@ Building developer tools, AI applications, and automation solutions. 3,009+ cont
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
   <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/clipboard.svg"><img src=".github/icons/dark/clipboard.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/quizzler">quizzler</a> - Quiz & trivia application (Go+React/Vite) · <a href="https://quizzler.mandalsuraj.com">quizzler.mandalsuraj.com</a>
+</p>
+
+#### Packages
+
+<p>
+  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/darwin-ui?style=flat&color=gray&labelColor=gray" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/package.svg"><img src=".github/icons/dark/package.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/darwin-ui">darwin-ui</a> - Modern MacOS concept UI library, Shadcn compatible · <a href="http://darwin-ui.mandalsuraj.com">darwin-ui.mandalsuraj.com</a>
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/dolash?style=flat&color=gray&labelColor=gray" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/package.svg"><img src=".github/icons/dark/package.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/dolash">dolash</a> - Utility lib for Node/Express/Mongo/React
+</p>
+
+<p>
+  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/libigc?style=flat&color=gray&labelColor=gray" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/plane.svg"><img src=".github/icons/dark/plane.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/libigc">libigc</a> - IGC flight file parser
 </p>
 
 #### Legacy Projects
