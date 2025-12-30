@@ -98,8 +98,8 @@ Building developer tools, AI applications, and automation solutions. 3,009+ cont
 #### Packages
 
 <p>
-  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/darwin-ui?style=flat&color=gray&labelColor=gray" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/package.svg"><img src=".github/icons/dark/package.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/darwin-ui">darwin-ui</a> - Modern MacOS concept UI library, Shadcn compatible · <a href="http://darwin-ui.mandalsuraj.com">darwin-ui.mandalsuraj.com</a>
+  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/libigc?style=flat&color=gray&labelColor=gray" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/plane.svg"><img src=".github/icons/dark/plane.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/libigc">libigc</a> - IGC flight file parser
 </p>
 
 <p>
@@ -108,8 +108,8 @@ Building developer tools, AI applications, and automation solutions. 3,009+ cont
 </p>
 
 <p>
-  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/libigc?style=flat&color=gray&labelColor=gray" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/plane.svg"><img src=".github/icons/dark/plane.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/libigc">libigc</a> - IGC flight file parser
+  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/darwin-ui?style=flat&color=gray&labelColor=gray" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/package.svg"><img src=".github/icons/dark/package.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/darwin-ui">darwin-ui</a> - Modern MacOS concept UI library, Shadcn compatible · <a href="http://darwin-ui.mandalsuraj.com">darwin-ui.mandalsuraj.com</a>
 </p>
 
 #### Legacy Projects
