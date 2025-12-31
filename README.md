@@ -19,25 +19,21 @@ Building developer tools, AI applications, and automation solutions. 3,009+ cont
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
-  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
   <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/mic.svg"><img src=".github/icons/dark/mic.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/asrpro">asrpro</a> - AI speech recognition desktop app
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
-  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/book.svg"><img src=".github/icons/dark/book.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/ResearchLM">ResearchLM</a> - NotebookLM w/ superpowers
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/clipboard.svg"><img src=".github/icons/dark/clipboard.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/pastepro">pastepro</a> - Desktop clipboard manager
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
-  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
   <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/database.svg"><img src=".github/icons/dark/database.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/pgsql-mcp">pgsql-mcp</a> - Postgres MCP server
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
-  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
   <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/cloud.svg"><img src=".github/icons/dark/cloud.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/s3-lurker">s3-lurker</a> - Self-hosted S3 manager
 </p>
 
@@ -50,7 +46,7 @@ Building developer tools, AI applications, and automation solutions. 3,009+ cont
 <p>
   <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/clipboard.svg"><img src=".github/icons/dark/clipboard.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/pastepro">pastepro</a> - Desktop clipboard manager
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/book.svg"><img src=".github/icons/dark/book.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/ResearchLM">ResearchLM</a> - NotebookLM w/ superpowers
 </p>
 
 #### Production
