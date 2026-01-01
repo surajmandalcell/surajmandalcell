@@ -1,6 +1,6 @@
 # Sup, I'm Suraj
 
-Building developer tools, AI applications, and automation solutions. 3,009+ contributions this year.
+Building developer tools, AI applications, and automation solutions. 3,450+ contributions this year.
 
 [![Twitter](https://img.shields.io/badge/-@surajmandalcell-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/surajmandalcell)
 [![Dribbble](https://img.shields.io/badge/-surajmandalcell-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/surajmandalcell)
