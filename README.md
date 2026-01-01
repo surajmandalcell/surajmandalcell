@@ -95,7 +95,7 @@ Building developer tools, AI applications, and automation solutions. 3,450+ cont
 
 <p>
   <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/libigc?style=flat&color=gray&labelColor=gray" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/plane.svg"><img src=".github/icons/dark/plane.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/libigc">@surajmandalcell/libigc</a> - IGC flight file parser
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/plane.svg"><img src=".github/icons/dark/plane.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/libigc">@surajmandalcell/libigc</a> - Library for parsing IGC flight recorder files
 </p>
 
 <p>
