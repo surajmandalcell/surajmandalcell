@@ -19,12 +19,12 @@ Building developer tools, AI applications, and automation solutions. 3,450+ cont
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/mic.svg"><img src=".github/icons/dark/mic.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/asrpro">asrpro</a> - AI speech recognition desktop app
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/mic.svg"><img src=".github/icons/dark/mic.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/asrpro">asrpro</a> - AI speech recognition desktop app(cross platform)
 </p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/clipboard.svg"><img src=".github/icons/dark/clipboard.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/pastepro">pastepro</a> - Desktop clipboard manager
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/clipboard.svg"><img src=".github/icons/dark/clipboard.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/pastepro">pastepro</a> - Desktop clipboard manager(cross platform)
 </p>
 
 <p>
