@@ -34,11 +34,6 @@ Building developer tools, AI native applications, and automation solutions.
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/cloud.svg"><img src=".github/icons/dark/cloud.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/s3-lurker">s3-lurker</a> - Self-hosted S3 manager
-</p>
-
-<p>
-  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
   <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/radio.svg"><img src=".github/icons/dark/radio.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/dronepos">dronepos</a> - Drone audio detection system
 </p>
