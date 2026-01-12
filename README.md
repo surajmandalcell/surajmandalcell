@@ -1,7 +1,7 @@
 # Hej!, I'm Suraj
 
 Building developer tools, AI native applications, and automation solutions.  
-~ Fastest way to connect → [me@mandalsuraj.com](mailto:me@mandalsuraj.com?subject=Hello&body=Hi)
+~ Fastest response ~ → [me@mandalsuraj.com](mailto:me@mandalsuraj.com?subject=Hello&body=Hi)
 
 [![Twitter](https://img.shields.io/badge/-@surajmandalcell-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/surajmandalcell)
 [![Dribbble](https://img.shields.io/badge/-surajmandalcell-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/surajmandalcell)
