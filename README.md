@@ -19,7 +19,7 @@ Building developer tools, AI native applications, and automation solutions.
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/database.svg"><img src=".github/icons/dark/database.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/pgsql-mcp">pgsql-mcp</a> - Postgres MCP server
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/database.svg"><img src=".github/icons/dark/database.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/pgsql-mcp">pgsql-mcp</a> - Postgres MCP
 </p>
 
 <p>
@@ -29,11 +29,6 @@ Building developer tools, AI native applications, and automation solutions.
 </p>
 
 #### Production
-
-<p>
-  <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/zap.svg"><img src=".github/icons/dark/zap.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/elec3d">elec3d</a> - Client Project (Wordpress) · <a href="http://elec3d.in/">elec3d.in</a>
-</p>
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
