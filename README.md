@@ -24,10 +24,7 @@ Twitter: [@surajmandalcell](https://twitter.com/surajmandalcell)  ~  Dribble: 
 </p>
 
 
-<p>
-  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/switch?style=flat&color=gray&labelColor=gray" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/switch.svg"><img src=".github/icons/dark/switch.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/switch">switch</a> - Multi-account switcher for AI services
-</p>
+
 
 
 
@@ -37,6 +34,18 @@ Twitter: [@surajmandalcell](https://twitter.com/surajmandalcell)  ~  Dribble: 
 
 
 #### On Hold
+
+
+<p>
+  <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/switch?style=flat&color=gray&labelColor=gray" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/switch.svg"><img src=".github/icons/dark/switch.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/switch">switch</a> - Multi-account switcher for AI services
+</p>
+
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/On_Hold-gray?style=flat&labelColor=4A4A4A&color=gray" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/database.svg"><img src=".github/icons/dark/database.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/pgsql-mcp">pgsql-mcp</a> - Postgres MCP
+</p>
 
 
 <p>
@@ -106,13 +115,7 @@ Twitter: [@surajmandalcell](https://twitter.com/surajmandalcell)  ~  Dribble: 
 
 
 
-#### Archived
 
-
-<p>
-  <img align="right" src="https://img.shields.io/badge/Archived-gray?style=flat&labelColor=4A4A4A&color=gray" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/database.svg"><img src=".github/icons/dark/database.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/pgsql-mcp">pgsql-mcp</a> - Postgres MCP
-</p>
 
 
 #### Legacy Projects
