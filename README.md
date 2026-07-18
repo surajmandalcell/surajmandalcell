@@ -1,11 +1,6 @@
 # Hej!, I'm Suraj
-
-
-Building developer tools, AI native applications, and automation solutions.  
-~ Fastest response ~ → [me@mandalsuraj.com](mailto:me@mandalsuraj.com?subject=Hello&body=Hi)
-
-
-Twitter: [@surajmandalcell](https://twitter.com/surajmandalcell)  ~  Dribble: [surajmandalcell](https://dribbble.com/surajmandalcell)  ~  Website: [surajmandal.in](https://surajmandal.in)  ~  LinkedIn: [mandalsuraj](https://linkedin.com/in/mandalsuraj)
+ 
+~ Fastest response ~ → [me@mandalsuraj.com](mailto:me@mandalsuraj.com?subject=Hello&body=Hi)     Twitter: [@surajmandalcell](https://twitter.com/surajmandalcell)  ~  Dribble: [surajmandalcell](https://dribbble.com/surajmandalcell)  ~  Website: [surajmandal.in](https://surajmandal.in)  ~  LinkedIn: [mandalsuraj](https://linkedin.com/in/mandalsuraj)
 
 
 
