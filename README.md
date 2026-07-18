@@ -1,7 +1,7 @@
 # Hej!, I'm Suraj
 
 
-Email: [me@mandalsuraj.com](mailto:me@mandalsuraj.com?subject=Hello&body=Hi) | Twitter: [@surajmandalcell](https://twitter.com/surajmandalcell)  |  Dribble: [surajmandalcell](https://dribbble.com/surajmandalcell)  |  Website: [surajmandal.in](https://surajmandal.in)  |  LinkedIn: [mandalsuraj](https://linkedin.com/in/mandalsuraj)
+Email: [me@mandalsuraj.com](mailto:me@mandalsuraj.com?subject=Hello&body=Hi) | Twitter: [@surajmandalcell](https://twitter.com/surajmandalcell)  |  Website: [surajmandal.in](https://surajmandal.in)  |  LinkedIn: [mandalsuraj](https://linkedin.com/in/mandalsuraj)
 
 
 
