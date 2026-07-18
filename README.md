@@ -1,6 +1,8 @@
 # Hej!, I'm Suraj
- 
-~ Fastest response ~ → [me@mandalsuraj.com](mailto:me@mandalsuraj.com?subject=Hello&body=Hi) 
+
+
+~ Fastest response ~ → [me@mandalsuraj.com](mailto:me@mandalsuraj.com?subject=Hello&body=Hi)
+
 
 Twitter: [@surajmandalcell](https://twitter.com/surajmandalcell)  ~  Dribble: [surajmandalcell](https://dribbble.com/surajmandalcell)  ~  Website: [surajmandal.in](https://surajmandal.in)  ~  LinkedIn: [mandalsuraj](https://linkedin.com/in/mandalsuraj)
 
@@ -28,14 +30,17 @@ Twitter: [@surajmandalcell](https://twitter.com/surajmandalcell)  ~  Dribble: 
 </p>
 
 
-<p>
-  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/database.svg"><img src=".github/icons/dark/database.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/pgsql-mcp">pgsql-mcp</a> - Postgres MCP
-</p>
+
+
+
+
+
+
+#### On Hold
 
 
 <p>
-  <img align="right" src="https://img.shields.io/badge/Heavy_WIP-gray?style=flat&labelColor=4A4A4A&color=gray" />
+  <img align="right" src="https://img.shields.io/badge/On_Hold-gray?style=flat&labelColor=4A4A4A&color=gray" />
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
   <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/book.svg"><img src=".github/icons/dark/book.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/ResearchLM">ResearchLM</a> - NotebookLM w/ superpowers
 </p>
@@ -99,6 +104,15 @@ Twitter: [@surajmandalcell](https://twitter.com/surajmandalcell)  ~  Dribble: 
 
 
 
+
+
+#### Archived
+
+
+<p>
+  <img align="right" src="https://img.shields.io/badge/Archived-gray?style=flat&labelColor=4A4A4A&color=gray" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/database.svg"><img src=".github/icons/dark/database.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/pgsql-mcp">pgsql-mcp</a> - Postgres MCP
+</p>
 
 
 #### Legacy Projects
