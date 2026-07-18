@@ -7,7 +7,6 @@ Building developer tools, AI native applications, and automation solutions.
 [![Dribbble](https://img.shields.io/badge/-surajmandalcell-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/surajmandalcell)
 [![Website](https://img.shields.io/badge/-surajmandal.in-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://surajmandal.in)
 [![LinkedIn](https://img.shields.io/badge/-in/mandalsuraj-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mandalsuraj)
-[![ORCID](https://img.shields.io/badge/-0009--0004--4230--0447-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-4230-0447)
 
 
 #### Current Projects
