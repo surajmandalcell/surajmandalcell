@@ -11,7 +11,7 @@ Email: [me@mandalsuraj.com](mailto:me@mandalsuraj.com?subject=Hello&body=Hi) | T
 
 <p>
   <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/macpowertoys?style=flat&color=gray&labelColor=gray" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/zap.svg"><img src=".github/icons/dark/zap.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/macpowertoys">MacPowerToys</a> - Native macOS utility suite
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/zap.svg"><img src=".github/icons/dark/zap.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/macpowertoys">MacPowerToys</a> - Native SwiftUI macOS utilities app like PowerToys on Windows
 </p>
 
 
