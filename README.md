@@ -6,7 +6,7 @@ Email: [me@mandalsuraj.com](mailto:me@mandalsuraj.com?subject=Hello&body=Hi) | T
 
 
 
-#### ♦ Active Top Projects
+#### # Active Top Projects
 
 
 <p>
@@ -23,7 +23,7 @@ Email: [me@mandalsuraj.com](mailto:me@mandalsuraj.com?subject=Hello&body=Hi) | T
 
 
 
-#### ♦ Published Packages (NPM/PyPI)
+#### # Published Packages (NPM/PyPI)
 
 <p>
   <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/pgsql-mcp?style=flat&color=gray&labelColor=gray" />
@@ -37,14 +37,15 @@ Email: [me@mandalsuraj.com](mailto:me@mandalsuraj.com?subject=Hello&body=Hi) | T
 </p>
 
 
+<!--
 <p>
   <img align="right" src="https://img.shields.io/github/stars/surajmandalcell/dolash?style=flat&color=gray&labelColor=gray" />
   <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/package.svg"><img src=".github/icons/dark/package.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/dolash">@surajmandalcell/dolash</a> - Utility lib for Node/Express/Mongo/React
 </p>
 
+-->
 
-
-
+<!--
 #### ♦ On Hold
 
 
@@ -55,10 +56,12 @@ Email: [me@mandalsuraj.com](mailto:me@mandalsuraj.com?subject=Hello&body=Hi) | T
 </p>
 
 
+-->
 
 
 
-#### ♦ Old Popular Projects
+
+#### # Old Popular Projects
 
 
 <p>
@@ -79,7 +82,7 @@ Email: [me@mandalsuraj.com](mailto:me@mandalsuraj.com?subject=Hello&body=Hi) | T
 
 
 
-#### ♦ Freelance Clients
+#### # Freelance Clients
 
 
 <p>
