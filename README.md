@@ -103,16 +103,16 @@ Email: [me@mandalsuraj.com](mailto:me@mandalsuraj.com?subject=Hello&body=Hi) | T
 </p>
 
 
-
+<!--
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
   <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/utensils.svg"><img src=".github/icons/dark/utensils.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/iveeaten">iveeaten</a> - Restaurant tracker w/ ratings (Flutter+Supabase) · <a href="https://iveeaten.com">iveeaten.com</a>
 </p>
-
+-->
 
 <p>
   <img align="right" src="https://img.shields.io/badge/Private-gray?style=flat" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/camera.svg"><img src=".github/icons/dark/camera.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/instagram">instagram</a> - My Virtual Photography Site (Go+React/ESM) · <a href="https://instagram.mandalsuraj.com">instagram.mandalsuraj.com</a>
+  <picture><source media="(prefers-color-scheme: dark)" srcset=".github/icons/light/camera.svg"><img src=".github/icons/dark/camera.svg" width="14" height="14" style="vertical-align: middle;" /></picture><a href="https://github.com/surajmandalcell/instagram">instagram</a> - My Virtual Photography Site (Go+React/ESM) · <a href="https://instagram.mandalsuraj.com">wallpaper.mandalsuraj.com</a>
 </p>
 
 
