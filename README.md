@@ -79,7 +79,7 @@ Email: [me@mandalsuraj.com](mailto:me@mandalsuraj.com?subject=Hello&body=Hi) | T
 
 
 
-#### ♦ Prod/Freelance Stuff I did on side
+#### ♦ Freelance Clients
 
 
 <p>
