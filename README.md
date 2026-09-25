@@ -1,4 +1,4 @@
-# Hej!, I'm Suraj
+# Hi! I'm Suraj and welcome to my profile
 
 
 Email: [me@mandalsuraj.com](mailto:me@mandalsuraj.com?subject=Hello&body=Hi) | Twitter: [@surajmandalcell](https://twitter.com/surajmandalcell)  |  Website: [surajmandal.in](https://surajmandal.in)  |  LinkedIn: [mandalsuraj](https://linkedin.com/in/mandalsuraj)
