@@ -1,7 +1,7 @@
 # <ins>S</ins>ur<ins>a</ins>j <ins>M</ins>andal = Sam
 
 
-Building [@SamHQ](https://github.com/samhqapp)
+Building [@SamHQ](https://github.com/samhqapp) , Contributor [@nxnative](https://github.com/seedds/nxnative)
 
 
 ### __Also:__  
